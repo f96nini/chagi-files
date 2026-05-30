@@ -121,6 +121,10 @@
     {
       "path": "results/2026-05-10_viking_cup_2026.txt",
       "sha256": "7a4c2d7dc14e268e83a97e1258980aed3ece7a1f371b51c0c3e1a51c68b977ce"
+    },
+    {
+      "path": "results/2026-05-29_kalle_anka_34.txt",
+      "sha256": "optional"
     }
   ]
 }
