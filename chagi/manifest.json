@@ -1,6 +1,6 @@
 {
-  "version": "2026-05-30",
-  "updated": "2026-05-30T21:00:00Z",
+  "version": "2026-05-31",
+  "updated": "2026-05-30T23:02:40Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -15,20 +15,8 @@
       "sha256": "36d30f45ca7868c7cba92b54a52e1f44778a00334b534f9ed95350d418c51223"
     },
     {
-      "path": "results/2024-03-02_stl2024_1_goteborg.txt",
-      "sha256": "55b6e3865f1e8bb145c78b514b6526e8f28fc936c3be79b89b91e21b4d931d86"
-    },
-    {
       "path": "results/2024-03-03_sam_do_kwan_cup.txt",
       "sha256": "bb29baf908dca9e683c3991ff976bc20bc38a29f33be9021a871767d41e13a32"
-    },
-    {
-      "path": "results/2024-04-06_stl2024_2_ljungby.txt",
-      "sha256": "9d60ba7c6cafa4e0f6b06f0ff81d4f6a6176a88685cbc2d91fce30c9bf777feb"
-    },
-    {
-      "path": "results/2024-05-18_stl2024_3_sm_skovde.txt",
-      "sha256": "cacfe44e8fcb10d81bd5077c6da4c2f753d0ba5236b701bcdd579e8d215f0bf8"
     },
     {
       "path": "results/2024-05-19_viking_cup_2024.txt",
@@ -47,40 +35,20 @@
       "sha256": "176d3ac759686d7dd3cbe4005a7206a31f615b109aa9f0fec63c0b2b0c51ca4d"
     },
     {
-      "path": "results/2024-11-17_svea_cup_mini_installd.txt",
-      "sha256": "4b7b35edbfdc38fb6c6040f0f2c66098ab3b883c5aaa734d4802ebb82acbc71d"
-    },
-    {
       "path": "results/2024-11-23_talent_open_2024.txt",
       "sha256": "cdcc8b2cc37899b6c18afa8646719cd9db41041e527a57edd546298bf0eac70d"
-    },
-    {
-      "path": "results/2025-03-08_stl2025_1_goteborg.txt",
-      "sha256": "9fbc79a9917b23a338492b8a7fd215ce6f356885f202c9b6d39a1aa67f9c9041"
     },
     {
       "path": "results/2025-03-09_talent_open_2025.txt",
       "sha256": "c602fedbe02f93c07ad8f457a659e08854ffa8259aa819602e8a89e878553057"
     },
     {
-      "path": "results/2025-04-05_stl2025_2_skovde.txt",
-      "sha256": "3acb484c988307c4cccb7158f8d692f69aa872334cb972d79f7ac1bb04953243"
-    },
-    {
       "path": "results/2025-04-06_viking_cup_2025.txt",
       "sha256": "a2702caf6c4972952bfa9b4a0f688847d2bbfefa9fdfdfa7edc907d0fcaeca24"
     },
     {
-      "path": "results/2025-05-17_stl2025_3_stockholm.txt",
-      "sha256": "74dc7d0adedb2365cb33b82dd332199f1a1b89ef031fcc6f4fdfc16276fc6927"
-    },
-    {
       "path": "results/2025-05-18_impact_cup_2025.txt",
       "sha256": "064e67d1cc387362907469f0071ca3c2902a015424290b8d8058783a4089262c"
-    },
-    {
-      "path": "results/2025-09-05_best_of_the_best_2025.txt",
-      "sha256": "16cedc76cbf8f3e7986713bfa24bb06286da989beeb8357de0c8104812279b6d"
     },
     {
       "path": "results/2025-10-04_impact_cup_2025.txt",
@@ -99,24 +67,12 @@
       "sha256": "edd46e394d1151c8c5e5048adcafbb34215a35f3e3678e4dc60dd2eb5f7c14fb"
     },
     {
-      "path": "results/2026-03-07_stl2026_1_goteborg.txt",
-      "sha256": "0a55e8c21d17c89b3daf02b503ddb138d0afbd79f7da3f9aa0df86f0d5acde09"
-    },
-    {
       "path": "results/2026-03-08_sam_do_kwan_cup.txt",
       "sha256": "5b46abef266c98b7f04246b11bff0258bb4b6b3fb2e1047b03563e943632e783"
     },
     {
-      "path": "results/2026-04-11_stl2026_2_stockholm.txt",
-      "sha256": "5f837f3baef98151e130d5cd1275faef92e178bc6e8cf92bf5c86f3422e175f4"
-    },
-    {
       "path": "results/2026-04-25_impact_cup_2026.txt",
       "sha256": "a97326c40942de2896bb0883cd3dccf6e7ccbdbf200a2e67c00accb4000d834f"
-    },
-    {
-      "path": "results/2026-05-09_stl2026_3_skovde.txt",
-      "sha256": "d8ccaa428e84530e7840fead1bbb8d10a1d95a69f2cc62a1ac9d96ea1ba0b691"
     },
     {
       "path": "results/2026-05-10_viking_cup_2026.txt",
