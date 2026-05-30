@@ -1,6 +1,6 @@
 {
   "version": "2026-05-31",
-  "updated": "2026-05-30T23:02:40Z",
+  "updated": "2026-05-30T23:11:45Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -72,7 +72,7 @@
     },
     {
       "path": "results/2026-04-25_impact_cup_2026.txt",
-      "sha256": "a97326c40942de2896bb0883cd3dccf6e7ccbdbf200a2e67c00accb4000d834f"
+      "sha256": "b2f080e04778f143c21c3d0b3e18e4e7d1f009e1f4e963289224c77e5da8b4fb"
     },
     {
       "path": "results/2026-05-10_viking_cup_2026.txt",
