@@ -1,6 +1,6 @@
 {
   "version": "2026-05-31",
-  "updated": "2026-05-30T23:11:45Z",
+  "updated": "2026-05-30T23:16:43Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -52,7 +52,7 @@
     },
     {
       "path": "results/2025-10-04_impact_cup_2025.txt",
-      "sha256": "1af56798687ceca47da57b0f4d83cfedb926fca7146f6ade336143ea2a7dd56f"
+      "sha256": "25ca6baa8484931c5f380fc96e083ecbe7c17b2c0a2f58636939927f63f471b2"
     },
     {
       "path": "results/2025-10-25_stenungsund_36.txt",
