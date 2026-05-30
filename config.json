@@ -1,0 +1,5 @@
+{
+  "appName": "chagi",
+  "environment": "production",
+  "apiMode": "static"
+}

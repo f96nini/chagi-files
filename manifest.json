@@ -1,0 +1,9 @@
+{
+  "name": "Chagi",
+  "short_name": "Chagi",
+  "start_url": "/chagi-files/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#2693C8",
+  "icons": []
+}
