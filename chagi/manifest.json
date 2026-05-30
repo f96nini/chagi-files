@@ -1,6 +1,6 @@
 {
   "version": "2026-05-30",
-  "updated": "2026-05-30T00:00:00Z",
+  "updated": "2026-05-30T21:00:00Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -121,10 +121,6 @@
     {
       "path": "results/2026-05-10_viking_cup_2026.txt",
       "sha256": "7a4c2d7dc14e268e83a97e1258980aed3ece7a1f371b51c0c3e1a51c68b977ce"
-    },
-    {
-      "path": "results/2026-05-29_kalle_anka_34.txt",
-      "sha256": "optional"
     }
   ]
 }
