@@ -131,6 +131,12 @@ Mönster Damer/Herrar Yngre Juniorer GUL
 1. Erika Good - Göteborg Kampsportsförening
 2. Enriko Costa - Kungsbacka
 
+Mönster Herrar Yngre Juniorer GRÖN/BLÅ
+1. Bill Bäckström - Frölunda
+2. Adrian Hannu - Torslanda
+3. Melvin Pihlgren - Kärra
+3. Axel Järbrink - Torslanda
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -259,8 +265,15 @@ Sparring Flickor Kadetter GUL -160cm
 3. Elin Wounlund - Lindome
 3. Novalie Pettersson Löfroos - Trollhättan
 
+Sparring Flickor Kadetter GUL +160cm
+1. Estrid Landegren - Frölunda
+2. Miranda Wagner - Kungälv
+
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
+
+Sparring Damer Yngre Juniorer GRÖN/BLÅ +61kg
+1. Victoria Wanchen Zhang - Partille
 
 Sparring Herrar Yngre Juniorer GUL -50kg
 1. Liam Eriksson - Bohus
@@ -318,6 +331,23 @@ Spec. Pojkar Miniorer VIT/GUL -150cm/+150cm
 2. Valentino Jerez - Bohus
 3. Oliver Johansson - Lindome
 3. Leo Blidberg - Frölunda
+
+Spec. Herrar Yngre Juniorer
+1. Trevor Augustsson - Mölnlycke
+2. Cornelis Olofsson - Lindome
+3. Enriko Costa - Kungsbacka
+
+Spec. Pojkar Kadetter VIT/GUL +160cm
+1. Leon Sarmark Mattsson - Kungsbacka
+2. Tor Uddh - Lindome
+
+Spec. Herrar Seniorer
+1. Joakim Johansson - Lindome
+2. Jimmy Liew - Torslanda
+
+Spec. Damer Juniorer
+1. Gloria Nikell - Kungsbacka
+2. Nia Lieske - Göteborg Phoenix
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -405,3 +435,19 @@ Kross Herrar Juniorer
 1. Emre Andersson - Lindome
 2. Linus Vester - Lindome
 3. Advait Anupam - Göteborg Kampsportsförening
+
+Kross Damer Seniorer
+1. Gordana Ceprnja - Göteborg Phoenix
+2. Hanna Bjurström - Stenungsund
+3. Nova Hartzell - Stenungsund
+3. Eva Foresti - Floda
+
+Kross Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
+1. Alexandra Andersson - Bohus
+2. Nellie Tran - Bohus
+3. Wilma Pettersson - Bohus
+
+Kross Flickor Kadetter VIT/GUL +160cm
+1. Emelie Nordwall - Trollhättan
+2. Estrid Landegren - Frölunda
+3. Olivia Wiberg - Kärra
