@@ -169,6 +169,16 @@ Mönster Herrar Seniorer GRÖN/BLÅ
 1. Jimmy Liew - Torslanda
 2. Joakim Johansson - Lindome
 
+Sparring Damer Juniorer GRÖN/BLÅ -53kg
+1. Lana Mahsob - Bohus
+2. Irem Karacavus - Bohus
+3. Alicia Kroon - Torslanda
+3. Nia Lieske - Göteborg Phoenix
+
+Sparring Herrar Juniorer GRÖN/BLÅ -55kg/-60kg (B)
+1. Neo Olsson - Frölunda
+2. Linus Vester - Lindome
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -417,6 +427,17 @@ Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 2. Nathaniel Racho - Kärra
 3. Hugo Törnbrink - Göteborg Kampsportsförening
 
+Spec. Damer Yngre Juniorer
+1. Evelin Lam - Frölunda
+2. Salma Raid - Bohuslän
+3. Ava Boreshnavard - Lindome
+3. Elsa Forsgard - Lindome
+
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
+1. Nellie Tran - Bohus
+2. Lovisa McClure - Kungsbacka
+3. Alexandra Andersson - Bohus
+
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
 2. Alvar Erre Mattsson - Lindome
@@ -544,3 +565,13 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 1. Yara Miran - Bohus
 2. Milla Sandblom - Mölnlycke
 3. Fanna Fesshay - Bohus
+
+Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
+1. Alexis Khoury - Kärra
+2. Isidor Dahlberg - Frölunda
+3. Oliver Wiberg - Kärra
+
+Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Emilia Foresti - Floda
+2. Nelli Kristiansen - Göteborg Kampsportsförening
+3. Astrid Falk - Göteborg Kampsportsförening
