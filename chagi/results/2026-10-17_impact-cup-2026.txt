@@ -6,6 +6,120 @@ Resultat
 
 Kategorier
 
+Mönster Flickor Yngre Miniorer VIT
+1. Kiwi Lundin - Stockholm Impact
+2. Michaela Dimitrova - Team FF TKD
+
+Mönster Flickor Yngre Miniorer GUL
+1. Thilda Gustafsson - Team FF TKD
+2. Elisia Johansson - Stockholm Impact
+3. Naomi Håkansson Sima - Stockholm Impact
+3. Nova Hyllander - Eskilstuna
+
+Mönster Pojkar Yngre Miniorer GUL
+1. Alfred Ranbäck - Team FF TKD
+2. Casper Koskinen - Team FF TKD
+3. Hamza Elkheribe - Eskilstuna
+3. Guilherme Campana - Team FF TKD
+
+Mönster Pojkar Miniorer VIT
+1. Ludwig Malmlöf - Team FF TKD
+2. Loke Känngård - Team FF TKD
+
+Mönster Pojkar Miniorer GUL
+1. Filip Berglund - Team FF TKD
+2. Leo Eriksson - Team FF TKD
+3. Alexander Bergmark - Team FF TKD
+3. Bill Fredricson - Team FF TKD
+
+Mönster Pojkar Miniorer GRÖN
+1. Liam Alamerison - Stockholm Impact
+2. Niro Shirkhani - Stockholm Impact
+3. Benjamin Gustafsson - Team FF TKD
+3. Noa Rygge Hultgren - Tyresö TKDA
+
+Sparring Flickor Yngre Miniorer GUL +135cm
+1. Naomi Håkansson Sima - Stockholm Impact
+2. Thilda Gustafsson - Team FF TKD
+3. Nova Hyllander - Eskilstuna
+
+Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm
+1. Casper Koskinen - Team FF TKD
+2. Guilherme Campana - Team FF TKD
+3. Alfred Ranbäck - Team FF TKD
+3. Enar Hesselgren - Stockholm Impact
+
+Sparring Pojkar Miniorer VIT -140cm
+1. Loke Känngård - Team FF TKD
+2. Ludwig Malmlöf - Team FF TKD
+
+Sparring Pojkar Miniorer VIT -150cm
+1. Theodore Nordqvist - Strängnäs
+2. Joshua Corriere - Team FF TKD
+
+Sparring Pojkar Miniorer GRÖN -140cm
+1. Benjamin Gustafsson - Team FF TKD
+2. Noa Rygge Hultgren - Tyresö TKDA
+
+Sparring Pojkar Miniorer GRÖN -150cm
+1. Niro Shirkhani - Stockholm Impact
+2. Liam Alamerison - Stockholm Impact
+
+Sparring Pojkar Miniorer GUL -140cm
+1. Filip Berglund - Team FF TKD
+2. Alexander Bergmark - Team FF TKD
+3. Alan Eriksson - Team FF TKD
+3. Leo Eriksson - Team FF TKD
+
+Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
+1. Benjamin Gustafsson - Team FF TKD
+
+Spec. Flickor Kadetter VIT/GUL -150cm
+1. Valentina Friedmann - Team FF TKD
+2. Tallin Känngård - Team FF TKD
+
+Spec. Flickor Yngre Miniorer VIT/GUL +135cm
+1. Thilda Gustafsson - Team FF TKD
+2. Nova Hyllander - Eskilstuna
+3. Naomi Håkansson Sima - Stockholm Impact
+
+Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -135cm
+1. Céline Ringman - Tyresö TKDA
+2. Maja Lindgren - Stockholm Impact
+
+Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -145cm
+1. Alma Karlberg - Stockholm Impact
+2. Vega Maiga - Stockholm Impact
+3. Astrid Berg - Stockholm Impact
+
+Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm/-160cm
+1. Theo Granlund - Tyresö TKDA
+2. Mika Giese - Stockholm Impact
+3. William Berglund - Team FF TKD
+
+Spec. Pojkar Miniorer VIT/GUL -140cm/-150cm
+1. Alan Eriksson - Team FF TKD
+2. Ludwig Malmlöf - Team FF TKD
+3. Bill Fredricson - Team FF TKD
+3. Folke Pernemalm - Stockholm Impact
+
+Spec. Herrar Yngre Juniorer
+1. Filip Gniewkowski - Tyresö TKDA
+2. Elis Gustafsson - Eskilstuna
+3. Gabriel Soto Noren - Tyresö TKDA
+
+Spec. Pojkar Yngre Miniorer GUL/GRÖN -140cm
+1. Casper Koskinen - Team FF TKD
+2. Alfred Ranbäck - Team FF TKD
+
+Spec. Flickor Miniorer VIT/GUL +145cm
+1. Heela Sherzad - Stockholm Impact
+2. Lilly-Bell Carnesten Escobar - Team FF TKD
+
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Lux Blank - Eskilstuna
+2. Sanna Rasekh - Stockholm Impact
+
 Lagmönster Yngre Miniorer & Miniorer
 1. Impact 2 - Stockholm Impact
 2. Impact 1 - Stockholm Impact
@@ -103,106 +217,6 @@ Mönster Damer/Herrar Seniorer GRÖN/BLÅ
 3. Rickard Gustafsson - Tyresö TKDA
 3. Linn Embro - Stockholm
 
-Mönster Flickor Yngre Miniorer VIT
-1. Kiwi Lundin - Stockholm Impact
-2. Michaela Dimitrova - Team FF TKD
-
-Mönster Flickor Yngre Miniorer GUL
-1. Thilda Gustafsson - Team FF TKD
-2. Elisia Johansson - Stockholm Impact
-3. Naomi Håkansson Sima - Stockholm Impact
-3. Nova Hyllander - Eskilstuna
-
-Mönster Pojkar Yngre Miniorer GUL
-1. Alfred Ranbäck - Team FF TKD
-2. Casper Koskinen - Team FF TKD
-3. Hamza Elkheribe - Eskilstuna
-3. Guilherme Campana - Team FF TKD
-
-Mönster Pojkar Miniorer VIT
-1. Ludwig Malmlöf - Team FF TKD
-2. Loke Känngård - Team FF TKD
-
-Mönster Pojkar Miniorer GUL
-1. Filip Berglund - Team FF TKD
-2. Leo Eriksson - Team FF TKD
-3. Alexander Bergmark - Team FF TKD
-3. Bill Fredricson - Team FF TKD
-
-Mönster Pojkar Miniorer GRÖN
-1. Liam Alamerison - Stockholm Impact
-2. Niro Shirkhani - Stockholm Impact
-3. Benjamin Gustafsson - Team FF TKD
-3. Noa Rygge Hultgren - Tyresö TKDA
-
-Sparring Flickor Yngre Miniorer GUL +135cm
-1. Naomi Håkansson Sima - Stockholm Impact
-2. Thilda Gustafsson - Team FF TKD
-3. Nova Hyllander - Eskilstuna
-
-Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm
-1. Casper Koskinen - Team FF TKD
-2. Guilherme Campana - Team FF TKD
-3. Alfred Ranbäck - Team FF TKD
-3. Enar Hesselgren - Stockholm Impact
-
-Sparring Pojkar Miniorer VIT -140cm
-1. Loke Känngård - Team FF TKD
-2. Ludwig Malmlöf - Team FF TKD
-
-Sparring Pojkar Miniorer VIT -150cm
-1. Theodore Nordqvist - Strängnäs
-2. Joshua Corriere - Team FF TKD
-
-Sparring Pojkar Miniorer GRÖN -140cm
-1. Benjamin Gustafsson - Team FF TKD
-2. Noa Rygge Hultgren - Tyresö TKDA
-
-Sparring Pojkar Miniorer GRÖN -150cm
-1. Niro Shirkhani - Stockholm Impact
-2. Liam Alamerison - Stockholm Impact
-
-Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
-1. Benjamin Gustafsson - Team FF TKD
-
-Spec. Flickor Kadetter VIT/GUL -150cm
-1. Valentina Friedmann - Team FF TKD
-2. Tallin Känngård - Team FF TKD
-
-Spec. Flickor Yngre Miniorer VIT/GUL +135cm
-1. Thilda Gustafsson - Team FF TKD
-2. Nova Hyllander - Eskilstuna
-3. Naomi Håkansson Sima - Stockholm Impact
-
-Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -135cm
-1. Céline Ringman - Tyresö TKDA
-2. Maja Lindgren - Stockholm Impact
-
-Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -145cm
-1. Alma Karlberg - Stockholm Impact
-2. Vega Maiga - Stockholm Impact
-3. Astrid Berg - Stockholm Impact
-
-Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm/-160cm
-1. Theo Granlund - Tyresö TKDA
-2. Mika Giese - Stockholm Impact
-3. William Berglund - Team FF TKD
-
-Spec. Pojkar Miniorer VIT/GUL -140cm/-150cm
-1. Alan Eriksson - Team FF TKD
-2. Ludwig Malmlöf - Team FF TKD
-3. Bill Fredricson - Team FF TKD
-3. Folke Pernemalm - Stockholm Impact
-
-Spec. Herrar Yngre Juniorer
-1. Filip Gniewkowski - Tyresö TKDA
-2. Elis Gustafsson - Eskilstuna
-3. Gabriel Soto Noren - Tyresö TKDA
-
-Spec. Pojkar Yngre Miniorer GUL/GRÖN -140cm
-1. Casper Koskinen - Team FF TKD
-2. Alfred Ranbäck - Team FF TKD
-
-Spec. Flickor Miniorer VIT/GUL +145cm
-1. Heela Sherzad - Stockholm Impact
-2. Lilly-Bell Carnesten Escobar - Team FF TKD
+Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
+1. Gabriel Soto Noren - Tyresö TKDA
+2. Jonathan Lindeberg - Eskilstuna
