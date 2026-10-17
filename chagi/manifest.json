@@ -1,6 +1,6 @@
 {
-  "version": "2026-09-26",
-  "updated": "2026-09-26T15:29:49Z",
+  "version": "2026-10-17",
+  "updated": "2026-10-17T07:23:58.7622436Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -81,6 +81,10 @@
     {
       "path": "results/2026-09-26_torslandacupen.txt",
       "sha256": "b7024540a2ad6f3ffee5f59baba38bc232b1eb3cccf06713e33682b80527d999"
+    },
+    {
+      "path": "results/2026-10-17_stenungsund-37.txt",
+      "sha256": "8401af6139fdd1265a56ab6711104555c22ced7eda520b545e57125ecb50995e"
     }
   ]
 }
