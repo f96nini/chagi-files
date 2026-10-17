@@ -179,6 +179,10 @@ Sparring Herrar Juniorer GRÖN/BLÅ -55kg/-60kg (B)
 1. Neo Olsson - Frölunda
 2. Linus Vester - Lindome
 
+Sparring Herrar Juniorer GRÖN/BLÅ -70kg
+1. Advait Anupam - Göteborg Kampsportsförening
+2. Emre Andersson - Lindome
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -246,6 +250,12 @@ Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
 1. Tiger Olsson - Frölunda
 2. Enriko Costa - Kungsbacka
 3. Valdemar Olausson Eriksson - Frölunda
+
+Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
+1. Bill Bäckström - Frölunda
+2. Wilhelm Langenes - Göteborg Kampsportsförening
+3. Melvin Pihlgren - Kärra
+3. Ture Paulsson - Torslanda
 
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
@@ -331,6 +341,12 @@ Sparring Flickor Kadetter GUL -150cm
 Sparring Pojkar Kadetter GUL -160cm
 1. Vincent Lindfors - Bohus
 2. Jakob Oladrabiei - Göteborg Kampsportsförening
+
+Sparring Pojkar Kadetter GUL -150cm
+1. Parsa Kashefibagherian - Frölunda
+2. Maksim Svensson - Göteborg Kampsportsförening
+3. Elias Nylund - Lindome
+3. Mattis Unger - Ahlafors
 
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
