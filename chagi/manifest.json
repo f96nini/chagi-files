@@ -1,6 +1,6 @@
 {
   "version": "2026-10-17",
-  "updated": "2026-10-17T10:39:48.9562123Z",
+  "updated": "2026-10-17T10:54:40.8655433Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -84,7 +84,7 @@
     },
     {
       "path": "results/2026-10-17_stenungsund-37.txt",
-      "sha256": "c8cc8b4169b538422b250110730c934887dd3ee828cc2d5760ee33d68338582c"
+      "sha256": "de72280bb6999c677d13db7e0a4df17aa0b31bd9a8f02d164fee0782c7c3cd5d"
     },
     {
       "path": "matches/2026-10-17_stenungsund-37.json",
