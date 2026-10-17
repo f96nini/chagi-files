@@ -11,6 +11,18 @@ Mönster Flickor Miniorer GUL
 2. Novali Danielsen Winqvist - Frölunda
 3. Kayleigh Ahrnberg - Trollhättan
 3. Matilda Brantlid - Mölnlycke
+0. Alexie Jakobsen Sandberg - Trollhättan
+0. Claudia Lemic - Trollhättan
+0. Freja Thorell - Bohus
+0. Rania Al-Debis - Bohus
+0. Julia Akkash - Ahlafors
+0. Michelle Kristensen - Lindome
+0. Amea Qvist - Lindome
+0. Selma Larsson Riza - Göteborg Kampsportsförening
+0. Ester Sundberg - Göteborg Kampsportsförening
+0. Sally Mehlin - Partille
+0. Victoria Koszalkowska - Kärra
+0. Nour Falk Bortheiry - Frölunda
 
 Mönster Flickor Miniorer GRÖN
 1. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
@@ -23,18 +35,32 @@ Mönster Pojkar Miniorer GRÖN
 2. André Anefors - Frölunda
 3. Alfons Huynh - Frölunda
 3. Aron Adolfsson Lica - Frölunda
+0. Alvar Erre Mattsson - Lindome
+0. Aron Ebrahimpur - Kungsbacka
+0. Adrian Lindblom - Mölnlycke
 
 Sparring Pojkar Miniorer GUL -150cm
 1. Adrian Emady Wittebo - Frölunda
 2. Edvin Andersson - Frölunda
 3. Alexandros Giannakos - Kärra
 3. Edvin Andersson - Torslanda
+0. Lorentz Braun - Bohus
+0. Valentino Jerez - Bohus
+0. Isak Tarlamisi - Bohus
+0. David Badawi - Bohuslän
+0. Jonathan Högberg - Partille
+0. Theo Hylén - Lindome
+0. Oliver Johansson - Lindome
+0. Leo Blidberg - Frölunda
+0. Charlaile Malan - Mölnlycke
 
 Sparring Flickor Miniorer GUL -145cm
 1. Julie Arnsrud - Göteborg Kampsportsförening
 2. Kayleigh Ahrnberg - Trollhättan
 3. Claudia Lemic - Trollhättan
 3. Matilda Brantlid - Mölnlycke
+0. Alexie Jakobsen Sandberg - Trollhättan
+0. Amea Qvist - Lindome
 
 Sparring Flickor Miniorer GUL +145cm
 1. Nour Falk Bortheiry - Frölunda
@@ -47,12 +73,19 @@ Mönster Flickor Kadetter GRÖN
 2. Alexandra Andersson - Bohus
 3. Nellie Tran - Bohus
 3. Emilia Foresti - Floda
+0. Ru Ljung-Haanäs - Göteborg Kampsportsförening
+0. Astrid Falk - Göteborg Kampsportsförening
+0. Nelli Kristiansen - Göteborg Kampsportsförening
+0. Mira Düfke - Lindome
+0. Julie Kjaerbeck Emilsson - Torslanda
+0. Lisa Persson - Ahlafors
 
 Sparring Pojkar Kadetter VIT -160cm
 1. Oscar Ahlstrand - Kungsbacka
 2. Hugo Planhage - Göteborg Kampsportsförening
 3. Elliot Tafjord - Kungsbacka
 3. Karl Anefors - Frölunda
+0. Ville Ottosson - Göteborg Kampsportsförening
 
 Sparring Pojkar Kadetter GRÖN +160cm
 1. William Nilsson - Frölunda
@@ -65,18 +98,32 @@ Mönster Pojkar Yngre Miniorer GUL
 2. Liam Rydberg - Partille
 3. Viktor Kaltén - Lindome
 3. Kaj Kilenstam - Göteborg Kampsportsförening
+0. Karl Pohjolainen - Partille
 
 Mönster Pojkar Yngre Miniorer VIT
 1. Antonio Buntic - Frölunda
 2. Fabian Palm - Trollhättan
 3. William Hader Sjöland - Kungsbacka
 3. Matej Pavicic - Kärra
+0. Sigge Tagesson - Bohus
+0. Ian Liu - Bohus
+0. Adrian Ebrahimpur - Kungsbacka
+0. Oliver Wackenstedt - Kärra
+0. Adrian Bartolomé Högberg - Kärra
+0. Melwin Bäck - Torslanda
+0. Logan Lindvall - Torslanda
 
 Mönster Pojkar Miniorer VIT
 1. Johan Nilsson - Torslanda
 2. Kian Seven - Kungsbacka
 3. Henry Carlström - Kungsbacka
 3. Benjamin Koreyat - Frölunda
+0. Adam Azzam - Bohuslän
+0. Benjamin Ivarsson - Trollhättan
+0. Filip Alvarsson - Göteborg Kampsportsförening
+0. Vidar Enesten Magnusson - Partille
+0. Liam Wilson - Göteborg Kampsportsförening
+0. Matheo Matas - Partille
 
 Sparring Pojkar Yngre Miniorer VIT -130cm
 1. Sigge Tagesson - Bohus
@@ -88,6 +135,8 @@ Sparring Pojkar Yngre Miniorer VIT -140cm
 2. William Hader Sjöland - Kungsbacka
 3. Ian Liu - Bohus
 3. Fabian Palm - Trollhättan
+0. Melwin Bäck - Torslanda
+0. Adrian Bartolomé Högberg - Kärra
 
 Sparring Pojkar Yngre Miniorer VIT +140cm
 1. Matej Pavicic - Kärra
@@ -98,6 +147,7 @@ Sparring Pojkar Miniorer VIT -150cm
 2. Benjamin Ivarsson - Trollhättan
 3. Adam Azzam - Bohuslän
 3. Filip Alvarsson - Göteborg Kampsportsförening
+0. Henry Carlström - Kungsbacka
 
 Sparring Pojkar Miniorer VIT -140cm
 1. Kian Seven - Kungsbacka
@@ -120,6 +170,15 @@ Mönster Pojkar Kadetter GRÖN
 2. Nathaniel Racho - Kärra
 3. Hampus Huss - Partille
 3. William Nilsson - Frölunda
+0. Alexis Khoury - Kärra
+0. Edin Osmanspahic - Kärra
+0. Vincent Seiter - Frölunda
+0. Oliver Wiberg - Kärra
+0. Edvin Holm - Frölunda
+0. Isidor Dahlberg - Frölunda
+0. Hugo Törnbrink - Göteborg Kampsportsförening
+0. Axel Kilenstam - Göteborg Kampsportsförening
+0. Folke Beecken - Göteborg Kampsportsförening
 
 Sparring Flickor Kadetter BLÅ/RÖD -160cm/+160cm
 1. Fanna Fesshay - Bohus
@@ -136,6 +195,18 @@ Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 2. Adrian Hannu - Torslanda
 3. Melvin Pihlgren - Kärra
 3. Axel Järbrink - Torslanda
+0. Bakir Nukovic - Bohus
+0. Isac Jacobsson - Bohus
+0. Linus Mårdberg - Mölnlycke
+0. David Todoran - Trollhättan
+0. Ossian Noaksand - Kungälv
+0. Ture Paulsson - Torslanda
+0. Fredrik Capek - Partille
+0. Cornelis Olofsson - Lindome
+0. Elliot Hellander - Lindome
+0. Sebastian Wahlborg - Lindome
+0. Vidar Uddh - Lindome
+0. Anton Kaltén - Lindome
 
 Mönster Damer/Herrar Juniorer GUL
 1. Mina Unger - Ahlafors
@@ -147,6 +218,7 @@ Mönster Damer Juniorer GRÖN/BLÅ
 2. Lana Mahsob - Bohus
 3. Irem Karacavus - Bohus
 3. Alicia Kroon - Torslanda
+0. Nia Lieske - Göteborg Phoenix
 
 Mönster Herrar Juniorer GRÖN/BLÅ
 1. Advait Anupam - Göteborg Kampsportsförening
@@ -201,24 +273,55 @@ Sparring Pojkar Kadetter GRÖN -160cm
 2. Hampus Huss - Partille
 3. Alexis Khoury - Kärra
 3. Oliver Wiberg - Kärra
+0. Vincent Seiter - Frölunda
+0. Axel Kilenstam - Göteborg Kampsportsförening
 
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
 3. Nore Torén - Frölunda
 3. Adrian Emady Wittebo - Frölunda
+0. Jonathan Racho - Kärra
+0. Alexandros Giannakos - Kärra
+0. Napoleon Danielsen Winqvist - Frölunda
+0. Leo Blidberg - Frölunda
+0. Sixten Arnesson - Frölunda
+0. Theo Hylén - Lindome
+0. Kristian Dzobelov - Frölunda
+0. Kemal Berkan Fidan - Partille
+0. Jonathan Högberg - Partille
+0. Vincent Jönsson - Frölunda
+0. Noa Petrén Olauson - Torslanda
+0. Elias Hagström - Lindome
+0. Edvin Andersson - Frölunda
+0. Oliver Johansson - Lindome
+0. Charlaile Malan - Mölnlycke
+0. Sixten Palm - Trollhättan
+0. Valentino Jerez - Bohus
+0. Isak Tarlamisi - Bohus
+0. Viktor Simonsen - Ahlafors
+0. Lucas Andreasson - Bohuslän
 
 Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm
 1. Kaj Kilenstam - Göteborg Kampsportsförening
 2. Emilio Jerez - Bohus
 3. Eskil Dinger - Frölunda
 3. Viktor Kaltén - Lindome
+0. Arvid Andersson Vidén - Partille
+0. Karl Pohjolainen - Partille
 
 Sparring Pojkar Miniorer GUL -140cm
 1. Ludvig Årman - Kungälv
 2. Elia Bartesaghi - Frölunda
 3. Adrian Sadrija - Bohuslän
 3. Sixten Palm - Trollhättan
+0. Tor Von Schwerin - Göteborg Kampsportsförening
+0. Nore Torén - Frölunda
+0. Napoleon Danielsen Winqvist - Frölunda
+0. Jonathan Racho - Kärra
+0. Kemal Berkan Fidan - Partille
+0. Douglas Törnqvist - Kungälv
+0. Lucas Andreasson - Bohuslän
 
 Sparring Pojkar Miniorer GUL +150cm
 1. Noa Petrén Olauson - Torslanda
@@ -237,6 +340,7 @@ Mönster Flickor/Pojkar Kadetter VIT
 2. Elliot Tafjord - Kungsbacka
 3. Karl Anefors - Frölunda
 3. Ville Ottosson - Göteborg Kampsportsförening
+0. Hugo Planhage - Göteborg Kampsportsförening
 
 Sparring Flickor Miniorer VIT -135cm
 1. Linnéa Zetterqvist Mohlin - Frölunda
@@ -248,6 +352,15 @@ Mönster Flickor Kadetter GUL
 2. Hanna Persson - Ahlafors
 3. Nina De Flon - Mölnlycke
 3. Olivia Wiberg - Kärra
+0. Miranda Wagner - Kungälv
+0. Amilia Andreasson - Bohuslän
+0. Nellie McCullough - Bohuslän
+0. Novalie Pettersson Löfroos - Trollhättan
+0. Boel Weber - Frölunda
+0. Estrid Landegren - Frölunda
+0. Victoria Andreasson - Frölunda
+0. Anna-My Ander - Lindome
+0. Elin Wounlund - Lindome
 
 Sparring Flickor Kadetter GRÖN -160cm
 1. Thilda Karlsson - Kärra
@@ -258,12 +371,23 @@ Sparring Flickor Kadetter GRÖN -150cm
 2. Astrid Falk - Göteborg Kampsportsförening
 3. Mira Düfke - Lindome
 3. Lisa Persson - Ahlafors
+0. Emilia Foresti - Floda
 
 Mönster Damer Yngre Juniorer GRÖN/BLÅ
 1. Sofie Eliasson - Frölunda
 2. Evelin Lam - Frölunda
 3. Natalie Dzobelova - Frölunda
 3. Donia Al-Debis - Bohus
+0. Nima Ahlén - Kungälv
+0. Samyuktha Venkatesh - Kungälv
+0. Alice Ljunggren - Trollhättan
+0. Salma Raid - Bohuslän
+0. Freja Högvall - Lindome
+0. Ava Boreshnavard - Lindome
+0. Victoria Wanchen Zhang - Partille
+0. Elsa Forsgard - Lindome
+0. Melissa Hoyek - Partille
+0. Klara Hansson - Kärra
 
 Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
 1. Tiger Olsson - Frölunda
@@ -275,12 +399,15 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 2. Wilhelm Langenes - Göteborg Kampsportsförening
 3. Melvin Pihlgren - Kärra
 3. Ture Paulsson - Torslanda
+0. Isac Jacobsson - Bohus
+0. Linus Mårdberg - Mölnlycke
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
 1. David Todoran - Trollhättan
 2. Axel Järbrink - Torslanda
 3. Trevor Augustsson - Mölnlycke
 3. Vidar Uddh - Lindome
+0. Ossian Noaksand - Kungälv
 
 Sparring Damer Yngre Juniorer GUL -57kg
 1. Erika Good - Göteborg Kampsportsförening
@@ -300,6 +427,10 @@ Sparring Damer Yngre Juniorer GRÖN/BLÅ -57kg
 1. Nima Ahlén - Kungälv
 2. Elsa Forsgard - Lindome
 
+Sparring Damer Yngre Juniorer GRÖN/BLÅ -61kg
+1. Ava Boreshnavard - Lindome
+2. Salma Raid - Bohuslän
+
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
 2. Tove Törvik - Partille
@@ -310,12 +441,21 @@ Mönster Flickor Yngre Miniorer VIT
 2. Elsa Thorell - Bohus
 3. Olivia Luu - Bohus
 3. Selin Kadiroglu Jormin - Frölunda
+0. Minna Lundström - Kungsbacka
+0. Elly Söderbergh - Partille
+0. Clara Prskalo - Partille
+0. Jenna Al-Hamedi - Bohus
 
 Mönster Flickor Miniorer VIT
 1. Amelia Lundström - Kungsbacka
 2. Florence McClure - Kungsbacka
 3. Leah Pham - Kungsbacka
 3. Leia Faramarzi - Frölunda
+0. Signe Andersson Vidén - Partille
+0. Linnéa Zetterqvist Mohlin - Frölunda
+0. Anastasia Samuelsson - Frölunda
+0. Felicia Tigora - Kärra
+0. Stephanie Illich - Frölunda
 
 Sparring Flickor Yngre Miniorer VIT -125cm
 1. Minna Lundström - Kungsbacka
@@ -347,18 +487,34 @@ Sparring Flickor Miniorer VIT -145cm
 2. Felicia Tigora - Kärra
 3. Leah Pham - Kungsbacka
 3. Anastasia Samuelsson - Frölunda
+0. Leia Faramarzi - Frölunda
+0. Linnéa Andreasson - Frölunda
 
 Sparring Flickor Miniorer GUL -135cm
 1. Michelle Kristensen - Lindome
 2. Elisabeth Fjellsson - Kungsbacka
 3. Rania Al-Debis - Bohus
 3. Selma Larsson Riza - Göteborg Kampsportsförening
+0. Julia Akkash - Ahlafors
 
 Mönster Pojkar Kadetter GUL
 1. Mattis Unger - Ahlafors
 2. Sebastian Stark - Mölnlycke
 3. Maksim Svensson - Göteborg Kampsportsförening
 3. Vincent Lindfors - Bohus
+0. Milton Edh - Trollhättan
+0. Antonio Jerez - Bohus
+0. Elias Nylund - Lindome
+0. Tor Uddh - Lindome
+0. Tim Carlsson - Lindome
+0. Oscar Hultgren - Lindome
+0. Emilio Gröndahl - Hisingen
+0. Lucas Wernersson - Torslanda
+0. Glenn Larsson - Frölunda
+0. Parsa Kashefibagherian - Frölunda
+0. Victor Lam - Frölunda
+0. Jakob Oladrabiei - Göteborg Kampsportsförening
+0. Leon Sarmark Mattsson - Kungsbacka
 
 Sparring Flickor Kadetter GRÖN +160cm
 1. Alexandra Andersson - Bohus
@@ -390,18 +546,26 @@ Sparring Pojkar Kadetter GUL -150cm
 2. Maksim Svensson - Göteborg Kampsportsförening
 3. Elias Nylund - Lindome
 3. Mattis Unger - Ahlafors
+0. Milton Edh - Trollhättan
+0. Glenn Larsson - Frölunda
+0. Filip Stefanovic - Partille
+0. Emilio Gröndahl - Hisingen
 
 Sparring Pojkar Kadetter GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Sebastian Stark - Mölnlycke
 3. Antonio Jerez - Bohus
 3. Oscar Hultgren - Lindome
+0. Tor Uddh - Lindome
 
 Sparring Pojkar Kadetter GRÖN -150cm
 1. Folke Beecken - Göteborg Kampsportsförening
 2. Nathaniel Racho - Kärra
 3. Hugo Törnbrink - Göteborg Kampsportsförening
 3. Aston Haglund - Frölunda
+0. Sigge Wallmark - Göteborg Kampsportsförening
+0. George Eliasson - Hisingen
+0. Metmku Abraham - Hisingen
 
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
@@ -425,84 +589,170 @@ Spec. Flickor Miniorer VIT/GUL -145cm
 2. Alexie Jakobsen Sandberg - Trollhättan
 3. Felicia Tigora - Kärra
 3. Stephanie Illich - Frölunda
+0. Amea Qvist - Lindome
+0. Claudia Lemic - Trollhättan
+0. Julie Arnsrud - Göteborg Kampsportsförening
+0. Kayleigh Ahrnberg - Trollhättan
+0. Matilda Brantlid - Mölnlycke
+0. Sally Mehlin - Partille
+0. Stella Gunnarsson - Göteborg Kampsportsförening
 
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm/+150cm
 1. André Anefors - Frölunda
 2. Amadeus Henriksson - Trollhättan
 3. Adrian Lindblom - Mölnlycke
+0. Alvar Erre Mattsson - Lindome
+0. Aron Adolfsson Lica - Frölunda
 
 Spec. Flickor Yngre Miniorer VIT/GUL -135cm
 1. Tove Törvik - Partille
 2. Clara Prskalo - Partille
+0. Adelia Edevåg - Kungsbacka
+0. Elsa Thorell - Bohus
+0. Jenna Al-Hamedi - Bohus
+
+Spec. Flickor Yngre Miniorer VIT/GUL +135cm
+0. Aurora Karlsson - Frölunda
+0. Frederica Eyvan - Bohus
 
 Spec. Flickor Miniorer VIT/GUL -135cm
 1. Michelle Kristensen - Lindome
 2. Rania Al-Debis - Bohus
 3. Linnéa Zetterqvist Mohlin - Frölunda
+0. Amelia Lundström - Kungsbacka
+0. Elisabeth Fjellsson - Kungsbacka
+0. Florence McClure - Kungsbacka
+0. Julia Akkash - Ahlafors
+0. Selma Larsson Riza - Göteborg Kampsportsförening
 
 Spec. Flickor Miniorer VIT/GUL +145cm
 1. Novali Danielsen Winqvist - Frölunda
 2. Nour Falk Bortheiry - Frölunda
+0. Freja Thorell - Bohus
+
+Spec. Flickor Yngre Miniorer VIT/GUL -125cm
+0. Elly Söderbergh - Partille
+0. Minna Lundström - Kungsbacka
+0. Olivia Luu - Bohus
 
 Spec. Pojkar Yngre Miniorer VIT/GUL +140cm
 1. Matej Pavicic - Kärra
+0. Antonio Buntic - Frölunda
 
 Spec. Pojkar Yngre Miniorer VIT/GUL -130cm
 1. Adrian Ebrahimpur - Kungsbacka
+0. Karl Pohjolainen - Partille
+0. Sigge Tagesson - Bohus
 
 Spec. Pojkar Yngre Miniorer VIT/GUL -140cm
 1. Emilio Jerez - Bohus
 2. Fabian Palm - Trollhättan
+0. Arvid Andersson Vidén - Partille
+0. Ian Liu - Bohus
+0. Liam Rydberg - Partille
+0. Logan Lindvall - Torslanda
+0. Viktor Kaltén - Lindome
+0. William Hader Sjöland - Kungsbacka
 
 Spec. Pojkar Miniorer VIT/GUL -140cm
 1. Vincent Jönsson - Frölunda
 2. Vidar Enesten Magnusson - Partille
 3. Johan Nilsson - Torslanda
 3. Sixten Palm - Trollhättan
+0. Adrian Sadrija - Bohuslän
+0. Jonathan Racho - Kärra
+0. Kemal Berkan Fidan - Partille
+0. Kian Seven - Kungsbacka
+0. Liam Wilson - Göteborg Kampsportsförening
+0. Lucas Andreasson - Bohuslän
+0. Napoleon Danielsen Winqvist - Frölunda
+0. Nore Torén - Frölunda
 
 Spec. Pojkar Miniorer VIT/GUL -150cm/+150cm
 1. David Badawi - Bohuslän
 2. Valentino Jerez - Bohus
 3. Oliver Johansson - Lindome
 3. Leo Blidberg - Frölunda
+0. Adam Azzam - Bohuslän
+0. Adrian Emady Wittebo - Frölunda
+0. Alexandros Giannakos - Kärra
+0. Benjamin Koreyat - Frölunda
+0. Edvin Andersson - Frölunda
+0. Elias Hagström - Lindome
+0. Filip Alvarsson - Göteborg Kampsportsförening
+0. Henry Carlström - Kungsbacka
+0. Isak Tarlamisi - Bohus
+0. Kelian Lindberg-Wallin - Bohuslän
+0. Noa Petrén Olauson - Torslanda
+0. Sixten Arnesson - Frölunda
+0. Theo Hylén - Lindome
 
 Spec. Herrar Yngre Juniorer
 1. Trevor Augustsson - Mölnlycke
 2. Cornelis Olofsson - Lindome
 3. Enriko Costa - Kungsbacka
+0. Adrian Hannu - Torslanda
+0. Anton Kaltén - Lindome
+0. Axel Järbrink - Torslanda
+0. Bakir Nukovic - Bohus
+0. David Todoran - Trollhättan
+0. Isac Jacobsson - Bohus
+0. Liam Eriksson - Bohus
+0. Linus Mårdberg - Mölnlycke
+0. Sebastian Wahlborg - Lindome
+0. Tiger Olsson - Frölunda
+0. Ture Paulsson - Torslanda
+0. Vidar Uddh - Lindome
 
 Spec. Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
+0. Oscar Hultgren - Lindome
+0. Sebastian Stark - Mölnlycke
 
 Spec. Herrar Seniorer
 1. Joakim Johansson - Lindome
 2. Jimmy Liew - Torslanda
+0. Stefan Kaltén - Lindome
 
 Spec. Damer Juniorer
 1. Gloria Nikell - Kungsbacka
 2. Nia Lieske - Göteborg Phoenix
+0. Alicia Kroon - Torslanda
+0. Josefine Lindkvist - Kungälv
+0. Mina Unger - Ahlafors
 
 Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Nelli Kristiansen - Göteborg Kampsportsförening
 2. Lisa Persson - Ahlafors
 3. Astrid Falk - Göteborg Kampsportsförening
+0. Emilia Foresti - Floda
+0. Julie Kjaerbeck Emilsson - Torslanda
+0. Mira Düfke - Lindome
 
 Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
 1. Isidor Dahlberg - Frölunda
 2. Alexis Khoury - Kärra
 3. Vincent Seiter - Frölunda
+0. Oliver Wiberg - Kärra
 
 Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Folke Beecken - Göteborg Kampsportsförening
 2. Nathaniel Racho - Kärra
 3. Hugo Törnbrink - Göteborg Kampsportsförening
+0. Aston Haglund - Frölunda
+0. Sigge Wallmark - Göteborg Kampsportsförening
 
 Spec. Damer Yngre Juniorer
 1. Evelin Lam - Frölunda
 2. Salma Raid - Bohuslän
 3. Ava Boreshnavard - Lindome
 3. Elsa Forsgard - Lindome
+0. Alice Ljunggren - Trollhättan
+0. Donia Al-Debis - Bohus
+0. Freja Högvall - Lindome
+0. Nima Ahlén - Kungälv
+0. Victoria Wanchen Zhang - Partille
 
 Spec. Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 1. Nellie Tran - Bohus
@@ -513,6 +763,7 @@ Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
 1. William Nilsson - Frölunda
 2. Samuel Bartesaghi - Frölunda
 3. Edin Osmanspahic - Kärra
+0. Edvin Holm - Frölunda
 
 Spec. Flickor Kadetter VIT/GUL -150cm
 1. Hanna Persson - Ahlafors
@@ -523,11 +774,14 @@ Spec. Flickor Kadetter VIT/GUL -150cm
 Spec. Damer Seniorer
 1. Gordana Ceprnja - Göteborg Phoenix
 2. Alina Suarez - Göteborg Phoenix
+0. Eva Foresti - Floda
 
 Spec. Flickor Kadetter VIT/GUL -160cm/+160cm
 1. Emelie Nordwall - Trollhättan
 2. Novalie Pettersson Löfroos - Trollhättan
 3. Elin Wounlund - Lindome
+0. Anna-My Ander - Lindome
+0. Victoria Andreasson - Frölunda
 
 Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 1. Fanna Fesshay - Bohus
@@ -538,16 +792,25 @@ Spec. Herrar Juniorer
 1. Advait Anupam - Göteborg Kampsportsförening
 2. Linus Vester - Lindome
 3. Emre Andersson - Lindome
+0. Sami Demirel - Lindome
+0. Suleman Ameri - Trollhättan
 
 Spec. Pojkar Kadetter VIT/GUL -150cm
 1. Parsa Kashefibagherian - Frölunda
 2. Milton Edh - Trollhättan
 3. Elias Nylund - Lindome
+0. Glenn Larsson - Frölunda
+0. Mattis Unger - Ahlafors
 
 Spec. Pojkar Kadetter VIT/GUL -160cm
 1. Victor Lam - Frölunda
 2. Elliot Tafjord - Kungsbacka
 3. Oscar Ahlstrand - Kungsbacka
+0. Hugo Planhage - Göteborg Kampsportsförening
+0. Karl Anefors - Frölunda
+0. Tim Carlsson - Lindome
+0. Ville Ottosson - Göteborg Kampsportsförening
+0. Vincent Lindfors - Bohus
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -568,6 +831,8 @@ Kross Flickor Yngre Miniorer VIT/GUL -135cm
 1. Aurora Jerez - Bohus
 2. Adelia Edevåg - Kungsbacka
 3. Tove Törvik - Partille
+0. Clara Prskalo - Partille
+0. Elsa Thorell - Bohus
 
 Kross Flickor Yngre Miniorer VIT/GUL +135cm
 1. Aurora Karlsson - Frölunda
@@ -577,6 +842,12 @@ Kross Flickor Miniorer VIT/GUL -135cm
 1. Julia Akkash - Ahlafors
 2. Florence McClure - Kungsbacka
 3. Michelle Kristensen - Lindome
+0. Amelia Lundström - Kungsbacka
+0. Elisabeth Fjellsson - Kungsbacka
+0. Linnéa Zetterqvist Mohlin - Frölunda
+0. Rania Al-Debis - Bohus
+0. Selma Larsson Riza - Göteborg Kampsportsförening
+0. Victoria Koszalkowska - Kärra
 
 Kross Flickor Yngre Miniorer VIT/GUL -125cm
 1. Elly Söderbergh - Partille
@@ -592,6 +863,7 @@ Kross Pojkar Yngre Miniorer VIT/GUL -130cm
 1. Adrian Ebrahimpur - Kungsbacka
 2. William Stefanovic - Partille
 3. Karl Pohjolainen - Partille
+0. Sigge Tagesson - Bohus
 
 Kross Pojkar Miniorer VIT/GUL +150cm
 1. Viktor Simonsen - Ahlafors
@@ -605,47 +877,109 @@ Kross Pojkar Yngre Miniorer VIT/GUL -140cm
 1. Emilio Jerez - Bohus
 2. Kaj Kilenstam - Göteborg Kampsportsförening
 3. Eskil Dinger - Frölunda
+0. Adrian Bartolomé Högberg - Kärra
+0. Arvid Andersson Vidén - Partille
+0. Fabian Palm - Trollhättan
+0. Ian Liu - Bohus
+0. Liam Rydberg - Partille
+0. Oliver Wackenstedt - Kärra
+0. Viktor Kaltén - Lindome
+0. William Hader Sjöland - Kungsbacka
 
 Kross Pojkar Miniorer VIT/GUL -150cm
 1. Adrian Emady Wittebo - Frölunda
 2. Leo Blidberg - Frölunda
 3. Alexandros Giannakos - Kärra
+0. Adam Azzam - Bohuslän
+0. Benjamin Ivarsson - Trollhättan
+0. Benjamin Koreyat - Frölunda
+0. Charlaile Malan - Mölnlycke
+0. Elias Hagström - Lindome
+0. Filip Alvarsson - Göteborg Kampsportsförening
+0. Henry Carlström - Kungsbacka
+0. Isak Tarlamisi - Bohus
+0. Jonathan Högberg - Partille
+0. Kelian Lindberg-Wallin - Bohuslän
+0. Oliver Johansson - Lindome
+0. Sixten Arnesson - Frölunda
+0. Theo Hylén - Lindome
+0. Valentino Jerez - Bohus
 
 Kross Flickor Miniorer VIT/GUL -145cm
 1. Matilda Brantlid - Mölnlycke
 2. Alexie Jakobsen Sandberg - Trollhättan
 3. Kayleigh Ahrnberg - Trollhättan
+0. Amea Qvist - Lindome
+0. Claudia Lemic - Trollhättan
+0. Felicia Tigora - Kärra
+0. Julie Arnsrud - Göteborg Kampsportsförening
+0. Leah Pham - Kungsbacka
+0. Linnéa Andreasson - Frölunda
+0. Stella Gunnarsson - Göteborg Kampsportsförening
 
 Kross Pojkar Miniorer VIT/GUL -140cm
 1. Kian Seven - Kungsbacka
 2. Jonathan Racho - Kärra
 3. Sixten Palm - Trollhättan
+0. Adrian Sadrija - Bohuslän
+0. Douglas Törnqvist - Kungälv
+0. Johan Nilsson - Torslanda
+0. Kemal Berkan Fidan - Partille
+0. Liam Wilson - Göteborg Kampsportsförening
+0. Lucas Andreasson - Bohuslän
+0. Napoleon Danielsen Winqvist - Frölunda
+0. Nore Torén - Frölunda
+0. Vidar Enesten Magnusson - Partille
+0. Vincent Jönsson - Frölunda
 
 Kross Damer Yngre Juniorer
 1. Ava Boreshnavard - Lindome
 2. Salma Raid - Bohuslän
 3. Sofie Eliasson - Frölunda
+0. Alice Ljunggren - Trollhättan
+0. Donia Al-Debis - Bohus
+0. Elsa Forsgard - Lindome
+0. Emelie Hartzell - Stenungsund
+0. Evelin Lam - Frölunda
+0. Freja Högvall - Lindome
+0. Iris Törnqvist - Kungälv
+0. Klara Hansson - Kärra
+0. Melissa Hoyek - Partille
+0. Nima Ahlén - Kungälv
+0. Samyuktha Venkatesh - Kungälv
+0. Victoria Wanchen Zhang - Partille
 
 Kross Pojkar Kadetter VIT/GUL -150cm
 1. Elias Nylund - Lindome
 2. Milton Edh - Trollhättan
 3. Glenn Larsson - Frölunda
+0. Filip Stefanovic - Partille
+0. Mattis Unger - Ahlafors
+0. Parsa Kashefibagherian - Frölunda
 
 Kross Herrar Juniorer
 1. Emre Andersson - Lindome
 2. Linus Vester - Lindome
 3. Advait Anupam - Göteborg Kampsportsförening
+0. Benjamin Jerez - Bohus
+0. Sami Demirel - Lindome
+0. Suleman Ameri - Trollhättan
 
 Kross Damer Seniorer
 1. Gordana Ceprnja - Göteborg Phoenix
 2. Hanna Bjurström - Stenungsund
 3. Nova Hartzell - Stenungsund
 3. Eva Foresti - Floda
+0. Alina Suarez - Göteborg Phoenix
+0. Isabell Brolin - Kungsbacka
+0. Tam Alfredsson - Kungälv
+0. Ulrika Hermansson - Torslanda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 1. Alexandra Andersson - Bohus
 2. Nellie Tran - Bohus
 3. Wilma Pettersson - Bohus
+0. Lovisa McClure - Kungsbacka
 
 Kross Flickor Kadetter VIT/GUL +160cm
 1. Emelie Nordwall - Trollhättan
@@ -656,58 +990,94 @@ Kross Pojkar Kadetter VIT/GUL -160cm
 1. Frank Hansson - Stenungsund
 2. Vincent Lindfors - Bohus
 3. Hugo Planhage - Göteborg Kampsportsförening
+0. Elliot Tafjord - Kungsbacka
+0. Karl Anefors - Frölunda
+0. Oscar Ahlstrand - Kungsbacka
+0. Tim Carlsson - Lindome
+0. Ville Ottosson - Göteborg Kampsportsförening
 
 Kross Flickor Kadetter VIT/GUL -150cm
 1. Hanna Persson - Ahlafors
 2. Amilia Andreasson - Bohuslän
 3. Boel Weber - Frölunda
+0. Nellie McCullough - Bohuslän
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Sigge Wallmark - Göteborg Kampsportsförening
 2. Nathaniel Racho - Kärra
 3. Aston Haglund - Frölunda
+0. Folke Beecken - Göteborg Kampsportsförening
+0. Hugo Törnbrink - Göteborg Kampsportsförening
 
 Kross Flickor Kadetter VIT/GUL -160cm
 1. Anna-My Ander - Lindome
 2. Elin Wounlund - Lindome
 3. Nina De Flon - Mölnlycke
+0. Novalie Pettersson Löfroos - Trollhättan
+0. Victoria Andreasson - Frölunda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 1. Yara Miran - Bohus
 2. Milla Sandblom - Mölnlycke
 3. Fanna Fesshay - Bohus
+0. Ru Ljung-Haanäs - Göteborg Kampsportsförening
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
 1. Alexis Khoury - Kärra
 2. Isidor Dahlberg - Frölunda
 3. Oliver Wiberg - Kärra
+0. Axel Kilenstam - Göteborg Kampsportsförening
+0. Hampus Huss - Partille
+0. Vincent Seiter - Frölunda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Emilia Foresti - Floda
 2. Nelli Kristiansen - Göteborg Kampsportsförening
 3. Astrid Falk - Göteborg Kampsportsförening
+0. Julie Kjaerbeck Emilsson - Torslanda
+0. Lisa Persson - Ahlafors
+0. Mira Düfke - Lindome
 
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
 3. Oscar Hultgren - Lindome
+0. Sebastian Stark - Mölnlycke
 
 Kross Herrar Yngre Juniorer
 1. Dexter Hartzell - Stenungsund
 2. Trevor Augustsson - Mölnlycke
 3. Vidar Uddh - Lindome
+0. Adrian Hannu - Torslanda
+0. Anton Kaltén - Lindome
+0. Axel Järbrink - Torslanda
+0. Bakir Nukovic - Bohus
+0. Cornelis Olofsson - Lindome
+0. David Todoran - Trollhättan
+0. Enriko Costa - Kungsbacka
+0. Isac Jacobsson - Bohus
+0. Liam Eriksson - Bohus
+0. Linus Mårdberg - Mölnlycke
+0. Melvin Pihlgren - Kärra
+0. Sebastian Wahlborg - Lindome
+0. Tiger Olsson - Frölunda
+0. Ture Paulsson - Torslanda
+0. Valdemar Olausson Eriksson - Frölunda
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
 1. William Nilsson - Frölunda
 2. Edin Osmanspahic - Kärra
 3. Samuel Bartesaghi - Frölunda
+0. Edvin Holm - Frölunda
 
 Kross Damer Juniorer
 1. Nia Lieske - Göteborg Phoenix
 2. Alicia Kroon - Torslanda
 3. Gloria Nikell - Kungsbacka
 3. Josefine Lindkvist - Kungälv
+0. Mina Unger - Ahlafors
 
 Kross Herrar Seniorer
 1. Joakim Johansson - Lindome
 2. Jimmy Liew - Torslanda
+0. Stefan Kaltén - Lindome
