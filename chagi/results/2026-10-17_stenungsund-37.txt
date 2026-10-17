@@ -6,6 +6,24 @@ Resultat
 
 Kategorier
 
+Mönster Flickor Miniorer GUL
+1. Elisabeth Fjellsson - Kungsbacka
+2. Novali Danielsen Winqvist - Frölunda
+3. Kayleigh Ahrnberg - Trollhättan
+3. Matilda Brantlid - Mölnlycke
+
+Mönster Flickor Miniorer GRÖN
+1. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
+2. Sigrid Arpe - Göteborg Kampsportsförening
+3. Klara Ericsson - Hisingen
+3. Meja Åberg - Ahlafors
+
+Mönster Pojkar Miniorer GRÖN
+1. Amadeus Henriksson - Trollhättan
+2. André Anefors - Frölunda
+3. Alfons Huynh - Frölunda
+3. Aron Adolfsson Lica - Frölunda
+
 Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 1. Sigrid Arpe - Göteborg Kampsportsförening
 2. Klara Ericsson - Hisingen
@@ -26,6 +44,20 @@ Kross Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 3. Sigrid Arpe - Göteborg Kampsportsförening
 3. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
 
+Kross Flickor Yngre Miniorer VIT/GUL -135cm
+1. Aurora Jerez - Bohus
+2. Adelia Edevåg - Kungsbacka
+3. Tove Törvik - Partille
+
+Kross Flickor Yngre Miniorer VIT/GUL +135cm
+1. Aurora Karlsson - Frölunda
+2. Frederica Eyvan - Bohus
+
+Kross Flickor Miniorer VIT/GUL -135cm
+1. Julia Akkash - Ahlafors
+2. Florence McClure - Kungsbacka
+3. Michelle Kristensen - Lindome
+
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
 2. Tove Törvik - Partille
@@ -37,8 +69,32 @@ Mönster Flickor Yngre Miniorer VIT
 3. Olivia Luu - Bohus
 3. Selin Kadiroglu Jormin - Frölunda
 
+Mönster Flickor Miniorer VIT
+1. Amelia Lundström - Kungsbacka
+2. Florence McClure - Kungsbacka
+3. Leah Pham - Kungsbacka
+3. Leia Faramarzi - Frölunda
+
+Mönster Pojkar Miniorer GUL
+1. Edvin Andersson - Torslanda
+2. Ludvig Årman - Kungälv
+3. Nore Torén - Frölunda
+3. Adrian Emady Wittebo - Frölunda
+
 Mönster Pojkar Yngre Miniorer GUL
 1. Emilio Jerez - Bohus
 2. Liam Rydberg - Partille
 3. Viktor Kaltén - Lindome
 3. Kaj Kilenstam - Göteborg Kampsportsförening
+
+Mönster Pojkar Yngre Miniorer VIT
+1. Antonio Buntic - Frölunda
+2. Fabian Palm - Trollhättan
+3. William Hader Sjöland - Kungsbacka
+3. Matej Pavicic - Kärra
+
+Mönster Pojkar Miniorer VIT
+1. Johan Nilsson - Torslanda
+2. Kian Seven - Kungsbacka
+3. Henry Carlström - Kungsbacka
+3. Benjamin Koreyat - Frölunda
