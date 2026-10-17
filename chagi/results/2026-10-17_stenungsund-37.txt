@@ -142,6 +142,23 @@ Mönster Damer/Herrar Juniorer GUL
 2. Suleman Ameri - Trollhättan
 3. Benjamin Jerez - Bohus
 
+Mönster Damer Juniorer GRÖN/BLÅ
+1. Gloria Nikell - Kungsbacka
+2. Lana Mahsob - Bohus
+3. Irem Karacavus - Bohus
+3. Alicia Kroon - Torslanda
+
+Mönster Herrar Juniorer GRÖN/BLÅ
+1. Advait Anupam - Göteborg Kampsportsförening
+2. Emre Andersson - Lindome
+3. Linus Vester - Lindome
+
+Mönster Damer Seniorer GUL
+1. Alina Suarez - Göteborg Phoenix
+2. Gordana Ceprnja - Göteborg Phoenix
+3. Isabell Brolin - Kungsbacka
+3. Hanna Bjurström - Stenungsund
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -204,6 +221,11 @@ Mönster Damer Yngre Juniorer GRÖN/BLÅ
 2. Evelin Lam - Frölunda
 3. Natalie Dzobelova - Frölunda
 3. Donia Al-Debis - Bohus
+
+Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
+1. Tiger Olsson - Frölunda
+2. Enriko Costa - Kungsbacka
+3. Valdemar Olausson Eriksson - Frölunda
 
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
@@ -285,6 +307,10 @@ Sparring Flickor Kadetter GUL -150cm
 2. Amilia Andreasson - Bohuslän
 3. Boel Weber - Frölunda
 3. Hanna Persson - Ahlafors
+
+Sparring Pojkar Kadetter GUL -160cm
+1. Vincent Lindfors - Bohus
+2. Jakob Oladrabiei - Göteborg Kampsportsförening
 
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
@@ -370,6 +396,11 @@ Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Nelli Kristiansen - Göteborg Kampsportsförening
 2. Lisa Persson - Ahlafors
 3. Astrid Falk - Göteborg Kampsportsförening
+
+Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
+1. Isidor Dahlberg - Frölunda
+2. Alexis Khoury - Kärra
+3. Vincent Seiter - Frölunda
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -478,3 +509,8 @@ Kross Pojkar Kadetter VIT/GUL -160cm
 1. Frank Hansson - Stenungsund
 2. Vincent Lindfors - Bohus
 3. Hugo Planhage - Göteborg Kampsportsförening
+
+Kross Flickor Kadetter VIT/GUL -150cm
+1. Hanna Persson - Ahlafors
+2. Amilia Andreasson - Bohuslän
+3. Boel Weber - Frölunda
