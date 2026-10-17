@@ -24,6 +24,12 @@ Mönster Pojkar Miniorer GRÖN
 3. Alfons Huynh - Frölunda
 3. Aron Adolfsson Lica - Frölunda
 
+Sparring Pojkar Miniorer GUL -150cm
+1. Adrian Emady Wittebo - Frölunda
+2. Edvin Andersson - Frölunda
+3. Alexandros Giannakos - Kärra
+3. Edvin Andersson - Torslanda
+
 Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 1. Sigrid Arpe - Göteborg Kampsportsförening
 2. Klara Ericsson - Hisingen
@@ -43,6 +49,11 @@ Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm/+150cm
 Spec. Flickor Yngre Miniorer VIT/GUL -135cm
 1. Tove Törvik - Partille
 2. Clara Prskalo - Partille
+
+Spec. Flickor Miniorer VIT/GUL -135cm
+1. Michelle Kristensen - Lindome
+2. Rania Al-Debis - Bohus
+3. Linnéa Zetterqvist Mohlin - Frölunda
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -132,6 +143,12 @@ Sparring Flickor Yngre Miniorer GUL -135cm/+135cm
 1. Adelia Edevåg - Kungsbacka
 2. Frederica Eyvan - Bohus
 
+Sparring Flickor Miniorer GRÖN -145cm/+145cm
+1. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
+2. Sigrid Arpe - Göteborg Kampsportsförening
+3. Meja Åberg - Ahlafors
+3. Klara Ericsson - Hisingen
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -172,3 +189,7 @@ Sparring Pojkar Yngre Miniorer VIT -140cm
 2. William Hader Sjöland - Kungsbacka
 3. Ian Liu - Bohus
 3. Fabian Palm - Trollhättan
+
+Sparring Pojkar Yngre Miniorer VIT +140cm
+1. Matej Pavicic - Kärra
+2. Antonio Buntic - Frölunda
