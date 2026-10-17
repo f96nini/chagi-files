@@ -494,10 +494,24 @@ Spec. Flickor Kadetter VIT/GUL -150cm
 3. Boel Weber - Frölunda
 3. Nellie McCullough - Bohuslän
 
+Spec. Damer Seniorer
+1. Gordana Ceprnja - Göteborg Phoenix
+2. Alina Suarez - Göteborg Phoenix
+
 Spec. Flickor Kadetter VIT/GUL -160cm/+160cm
 1. Emelie Nordwall - Trollhättan
 2. Novalie Pettersson Löfroos - Trollhättan
 3. Elin Wounlund - Lindome
+
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
+1. Fanna Fesshay - Bohus
+2. Milla Sandblom - Mölnlycke
+3. Ru Ljung-Haanäs - Göteborg Kampsportsförening
+
+Spec. Herrar Juniorer
+1. Advait Anupam - Göteborg Kampsportsförening
+2. Linus Vester - Lindome
+3. Emre Andersson - Lindome
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -651,3 +665,7 @@ Kross Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
 1. William Nilsson - Frölunda
 2. Edin Osmanspahic - Kärra
 3. Samuel Bartesaghi - Frölunda
+
+Kross Herrar Seniorer
+1. Joakim Johansson - Lindome
+2. Jimmy Liew - Torslanda
