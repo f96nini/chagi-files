@@ -187,6 +187,11 @@ Sparring Herrar Seniorer GRÖN/BLÅ -87kg
 1. Joakim Johansson - Lindome
 2. Jimmy Liew - Torslanda
 
+Sparring Damer Seniorer GUL -65kg/-70kg
+1. Alina Suarez - Göteborg Phoenix
+2. Johanna Svennungsson - Bohuslän
+3. Gordana Ceprnja - Göteborg Phoenix
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -260,6 +265,12 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 2. Wilhelm Langenes - Göteborg Kampsportsförening
 3. Melvin Pihlgren - Kärra
 3. Ture Paulsson - Torslanda
+
+Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
+1. David Todoran - Trollhättan
+2. Axel Järbrink - Torslanda
+3. Trevor Augustsson - Mölnlycke
+3. Vidar Uddh - Lindome
 
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
@@ -351,6 +362,12 @@ Sparring Pojkar Kadetter GUL -150cm
 2. Maksim Svensson - Göteborg Kampsportsförening
 3. Elias Nylund - Lindome
 3. Mattis Unger - Ahlafors
+
+Sparring Pojkar Kadetter GUL +160cm
+1. Leon Sarmark Mattsson - Kungsbacka
+2. Sebastian Stark - Mölnlycke
+3. Antonio Jerez - Bohus
+3. Oscar Hultgren - Lindome
 
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
@@ -457,6 +474,22 @@ Spec. Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 1. Nellie Tran - Bohus
 2. Lovisa McClure - Kungsbacka
 3. Alexandra Andersson - Bohus
+
+Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
+1. William Nilsson - Frölunda
+2. Samuel Bartesaghi - Frölunda
+3. Edin Osmanspahic - Kärra
+
+Spec. Flickor Kadetter VIT/GUL -150cm
+1. Hanna Persson - Ahlafors
+2. Amilia Andreasson - Bohuslän
+3. Boel Weber - Frölunda
+3. Nellie McCullough - Bohuslän
+
+Spec. Flickor Kadetter VIT/GUL -160cm/+160cm
+1. Emelie Nordwall - Trollhättan
+2. Novalie Pettersson Löfroos - Trollhättan
+3. Elin Wounlund - Lindome
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -595,3 +628,8 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Emilia Foresti - Floda
 2. Nelli Kristiansen - Göteborg Kampsportsförening
 3. Astrid Falk - Göteborg Kampsportsförening
+
+Kross Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
+1. William Nilsson - Frölunda
+2. Edin Osmanspahic - Kärra
+3. Samuel Bartesaghi - Frölunda
