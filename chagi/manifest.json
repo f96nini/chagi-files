@@ -1,6 +1,6 @@
 {
   "version": "2026-10-17",
-  "updated": "2026-10-17T09:39:43.4469732Z",
+  "updated": "2026-10-17T09:54:45.6587883Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -84,11 +84,11 @@
     },
     {
       "path": "results/2026-10-17_stenungsund-37.txt",
-      "sha256": "c229907107b41e70978338bcd33ba2cc02fb5e3827b26671b54a387e1f96e442"
+      "sha256": "479c8da1d7c258558b061c701bd95aaadaea84cebecfe4963c90d372eedf7d02"
     },
     {
       "path": "matches/2026-10-17_stenungsund-37.json",
-      "sha256": "40f793a2d9472fa764110abd2a9a8765d3bec46d2c92b6bf6a8c9779e23f39e1"
+      "sha256": "b0b5fa2bb89f837dae5ab3240d0f084d28fcd5b193f34d57e5e05d10e7cf6c6b"
     },
     {
       "path": "matches/index.json",
@@ -96,11 +96,11 @@
     },
     {
       "path": "results/2026-10-17_impact-cup-2026.txt",
-      "sha256": "a0227bc213e3cdbfe6a570481057f98acd00ab10b4b9dcde5b7d2831135d57dd"
+      "sha256": "efa248fc89c5c2a964d8bebc0cdb3c35af2660769e473e74f801cf6a5e4b19bd"
     },
     {
       "path": "matches/2026-10-17_impact-cup-2026.json",
-      "sha256": "450b0166a37bc55b6e344423ffa9a07d49caa2f4b8293858886b4c0efa12b1f2"
+      "sha256": "4fc2e9ad2f9e927dcc58e5e0ad2796ddfa2a704c3485291384e11efcfa1177fe"
     }
   ]
 }
