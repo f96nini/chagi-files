@@ -137,6 +137,11 @@ Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 3. Melvin Pihlgren - Kärra
 3. Axel Järbrink - Torslanda
 
+Mönster Damer/Herrar Juniorer GUL
+1. Mina Unger - Ahlafors
+2. Suleman Ameri - Trollhättan
+3. Benjamin Jerez - Bohus
+
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
 2. Ludvig Årman - Kungälv
@@ -193,6 +198,12 @@ Sparring Flickor Kadetter GRÖN -150cm
 2. Astrid Falk - Göteborg Kampsportsförening
 3. Mira Düfke - Lindome
 3. Lisa Persson - Ahlafors
+
+Mönster Damer Yngre Juniorer GRÖN/BLÅ
+1. Sofie Eliasson - Frölunda
+2. Evelin Lam - Frölunda
+3. Natalie Dzobelova - Frölunda
+3. Donia Al-Debis - Bohus
 
 Mönster Flickor Yngre Miniorer GUL
 1. Adelia Edevåg - Kungsbacka
@@ -268,6 +279,12 @@ Sparring Flickor Kadetter GUL -160cm
 Sparring Flickor Kadetter GUL +160cm
 1. Estrid Landegren - Frölunda
 2. Miranda Wagner - Kungälv
+
+Sparring Flickor Kadetter GUL -150cm
+1. Nellie McCullough - Bohuslän
+2. Amilia Andreasson - Bohuslän
+3. Boel Weber - Frölunda
+3. Hanna Persson - Ahlafors
 
 Sparring Herrar Juniorer GUL -75kg
 1. Benjamin Jerez - Bohus
@@ -348,6 +365,11 @@ Spec. Herrar Seniorer
 Spec. Damer Juniorer
 1. Gloria Nikell - Kungsbacka
 2. Nia Lieske - Göteborg Phoenix
+
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Nelli Kristiansen - Göteborg Kampsportsförening
+2. Lisa Persson - Ahlafors
+3. Astrid Falk - Göteborg Kampsportsförening
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm
 1. Aron Ebrahimpur - Kungsbacka
@@ -451,3 +473,8 @@ Kross Flickor Kadetter VIT/GUL +160cm
 1. Emelie Nordwall - Trollhättan
 2. Estrid Landegren - Frölunda
 3. Olivia Wiberg - Kärra
+
+Kross Pojkar Kadetter VIT/GUL -160cm
+1. Frank Hansson - Stenungsund
+2. Vincent Lindfors - Bohus
+3. Hugo Planhage - Göteborg Kampsportsförening
