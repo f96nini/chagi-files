@@ -1,6 +1,6 @@
 {
-  "version": "2026-10-17",
-  "updated": "2026-10-17T15:57:13.7486533Z",
+  "version": "2026-10-19",
+  "updated": "2026-10-19T21:16:25Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -44,15 +44,15 @@
     },
     {
       "path": "results/2025-04-06_viking_cup_2025.txt",
-      "sha256": "a2702caf6c4972952bfa9b4a0f688847d2bbfefa9fdfdfa7edc907d0fcaeca24"
+      "sha256": "b5c15afd8c6821639ffecd3a0800a6e554eed594d73d41f7763366f5996d08cd"
     },
     {
       "path": "results/2025-05-18_impact_cup_2025.txt",
-      "sha256": "064e67d1cc387362907469f0071ca3c2902a015424290b8d8058783a4089262c"
+      "sha256": "d8db7546194234894e029d6c42b4ce7a3df4488d4ae586e05520370c3196ff0e"
     },
     {
       "path": "results/2025-10-04_impact_cup_2025.txt",
-      "sha256": "25ca6baa8484931c5f380fc96e083ecbe7c17b2c0a2f58636939927f63f471b2"
+      "sha256": "fc0dc4825e755943f08280a8cecfa69b9e5788505a5ad0c42dfe5d664a2d5e74"
     },
     {
       "path": "results/2025-10-25_stenungsund_36.txt",
@@ -60,7 +60,7 @@
     },
     {
       "path": "results/2025-11-08_swedish_itf_open_2025.txt",
-      "sha256": "3faebd3d25e9858ccc9bcc2f403056f2866510226022e9520dfaddcfefbdd2f1"
+      "sha256": "f7b47c51726606b7bdec9d2b361cec70af36b39f1878a337417f7ba97b2afaa8"
     },
     {
       "path": "results/2025-11-23_talent_open_2025.txt",
@@ -68,7 +68,7 @@
     },
     {
       "path": "results/2026-03-08_sam_do_kwan_cup.txt",
-      "sha256": "5b46abef266c98b7f04246b11bff0258bb4b6b3fb2e1047b03563e943632e783"
+      "sha256": "7e99dd378c5eec55a60001ff49f84b97a96ae8bec641a18a5e26ec76f3e79551"
     },
     {
       "path": "results/2026-04-25_impact_cup_2026.txt",
@@ -76,7 +76,7 @@
     },
     {
       "path": "results/2026-05-10_viking_cup_2026.txt",
-      "sha256": "7a4c2d7dc14e268e83a97e1258980aed3ece7a1f371b51c0c3e1a51c68b977ce"
+      "sha256": "38ec9a7161eb704d7d108280222d939c829e9d8c01ddfde26624c19b6a894f45"
     },
     {
       "path": "results/2026-09-26_torslandacupen.txt",
