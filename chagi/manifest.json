@@ -1,6 +1,6 @@
 {
   "version": "2026-10-20",
-  "updated": "2026-10-20T20:56:58Z",
+  "updated": "2026-10-20T21:13:44Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -92,7 +92,7 @@
     },
     {
       "path": "matches/index.json",
-      "sha256": "024595991c5fdd899fabc17c56bb889ffeb7949b5e55c7ec5308f29e4752b147"
+      "sha256": "ecb16ba8edbcd241bacb6a4ff8296031346d2d3dec05f8c0aefe5336eb8dd64b"
     },
     {
       "path": "results/2026-10-17_impact-cup-2026.txt",
@@ -101,6 +101,10 @@
     {
       "path": "matches/2026-10-17_impact-cup-2026.json",
       "sha256": "e440d35e0234dfbead020a9458399950a6e9bd10e72fe2365cb4c7561737d5a8"
+    },
+    {
+      "path": "matches/2026-09-26_torslandacupen.json",
+      "sha256": "764af73392747f532b4e6826641b912cc874e46a6b03f64e94a0d193642e6001"
     }
   ]
 }
