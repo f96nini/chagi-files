@@ -95,6 +95,14 @@ Mönster Herrar Seniorer GRÖN/BLÅ
 2. Michel Duso Joviken - Kungsbacka
 3. Lucas Thiesen - Kokkedal
 
+Sparring Damer Yngre Juniorer GRÖN/BLÅ -49kg
+1. Sofie Eliasson - Frölunda
+2. Donia Al-Debis - Bohus
+
+Sparring Damer Yngre Juniorer GRÖN/BLÅ -61kg
+1. Idun Pärnänen - Skara
+2. Ava Boreshnavard - Lindome
+
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
@@ -279,6 +287,14 @@ Sparring Pojkar Kadetter GUL -160cm
 3. Alexander Gustavsson - Ljungby
 3. Vincent Lindfors - Bohus
 
+Sparring Pojkar Kadetter VIT -150cm
+1. Wiktor Sundkvist - Jönköping
+2. Emir Soylu - Jönköping
+
+Sparring Flickor Kadetter VIT -160cm
+1. Lykke Norin - Jönköping
+2. Elina Chamo - Jönköping
+
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
 2. André Anefors - Frölunda
@@ -360,6 +376,17 @@ Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 3. Elna Söderberg - Ljungby
 3. Lovisa Lundberg - Skara
 
+Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Folke Beecken - Göteborg Kampsportsförening
+2. Walter Hultbäck - Ljungby
+3. Hugo Törnbrink - Göteborg Kampsportsförening
+3. Aston Haglund - Frölunda
+
+Spec. Herrar Seniorer
+1. Michel Duso Joviken - Kungsbacka
+2. Jimmy Liew - Torslanda
+3. Lucas Thiesen - Kokkedal
+
 Mönster Flickor Miniorer GUL
 1. Vilda Jönsson - Ljungby
 2. Winga Känngård - Team FF TKD
@@ -415,6 +442,11 @@ Sparring Pojkar Kadetter VIT -160cm/+160cm
 Sparring Flickor Kadetter VIT -150cm
 1. Julia Memic - Jönköping
 2. Wilma Ruhani - Jönköping
+
+Sparring Flickor Kadetter GRÖN +160cm
+1. Nellie Tran - Bohus
+2. Nowa Fihn - Ljungby
+3. Alexandra Andersson - Bohus
 
 Sparring Flickor Miniorer VIT -145cm
 1. Leah Pham - Kungsbacka
