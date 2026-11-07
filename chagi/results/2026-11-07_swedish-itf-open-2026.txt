@@ -108,6 +108,11 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 2. Amel Hotic - Ljungby
 3. Charlie Grahn - Jönköping
 
+Sparring Herrar Yngre Juniorer GRÖN/BLÅ +65kg
+1. Theo Forsberg - Jönköping
+2. Julius Frederiksen - Kokkedal
+3. Cornelis Olofsson - Lindome
+
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
@@ -336,6 +341,11 @@ Sparring Flickor Kadetter BLÅ/RÖD -160cm/+160cm
 1. Wilma Pettersson - Bohus
 2. Fanna Fesshay - Bohus
 
+Sparring Damer Yngre Juniorer GUL -49kg/-53kg
+1. Wilma Wiksten - Jönköping
+2. Elin Cedermark - Jönköping
+3. Emma Cenanovic - Jönköping
+
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
 2. André Anefors - Frölunda
@@ -438,6 +448,15 @@ Spec. Damer Seniorer
 1. Gordana Ceprnja - Göteborg Phoenix
 2. Rebecca Nickless - Kokkedal
 
+Spec. Damer Yngre Juniorer
+1. Märta Ejeklint - Ljungby
+2. Elsa Forsgard - Lindome
+3. Elin Bergvi - Lindome
+3. Ava Boreshnavard - Lindome
+
+Spec. Damer Juniorer
+1. Gloria Nikell - Kungsbacka
+
 Mönster Flickor Miniorer GUL
 1. Vilda Jönsson - Ljungby
 2. Winga Känngård - Team FF TKD
@@ -513,6 +532,11 @@ Sparring Pojkar Kadetter GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Antonio Jerez - Bohus
 3. Tor Uddh - Lindome
+
+Sparring Flickor Kadetter GUL -160cm/+160cm
+1. Ebba Halldin - Linköping
+2. Elin Wounlund - Lindome
+3. Jannah Taha - Bohus
 
 Sparring Flickor Miniorer VIT -145cm
 1. Leah Pham - Kungsbacka
