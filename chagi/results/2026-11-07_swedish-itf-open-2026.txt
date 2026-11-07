@@ -56,6 +56,12 @@ Sparring Flickor Miniorer GRÖN +145cm
 1. Sigrid Arpe - Göteborg Kampsportsförening
 2. Lo Alzén - Jönköping
 
+Sparring Pojkar Miniorer GRÖN -140cm/-150cm
+1. André Anefors - Frölunda
+2. Alfred Nilzén - Jönköping
+3. Amadeus Henriksson - Trollhättan
+3. Benjamin Gustafsson - Team FF TKD
+
 Mönster Pojkar Miniorer GUL
 1. Isak Pålsson - Torslanda
 2. Ibrahim Taha - Bohus
@@ -73,6 +79,12 @@ Sparring Pojkar Miniorer GUL -150cm/+150cm
 2. Alexandros Giannakos - Kärra
 3. Gunnar Hammarlund - Jönköping
 3. Ibrahim Taha - Bohus
+
+Mönster Pojkar Kadetter GUL
+1. Tage Hultbäck - Ljungby
+2. Leon Sarmark Mattsson - Kungsbacka
+3. Alexander Gustavsson - Ljungby
+3. Max Karlsson - Ljungby
 
 Mönster Flickor Miniorer GUL
 1. Vilda Jönsson - Ljungby
@@ -95,6 +107,12 @@ Sparring Flickor Miniorer GUL +145cm
 2. Novali Danielsen Winqvist - Frölunda
 3. Lilly-Bell Carnesten Escobar - Team FF TKD
 3. Stina Geber - Mariestad
+
+Mönster Flickor Kadetter GUL
+1. Elwira Friberg - Ljungby
+2. Ebba Halldin - Linköping
+3. Jannah Taha - Bohus
+3. Alma Aspegren - Ljungby
 
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
@@ -161,6 +179,16 @@ Kross Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 2. Ingrid Axelsson Anefors - Frölunda
 3. Lo Alzén - Jönköping
 
+Kross Flickor Yngre Miniorer VIT/GUL -135cm
+1. Aylin Kerem - Linköping
+2. Aurora Jerez - Bohus
+
+Kross Flickor Miniorer VIT/GUL +145cm
+1. Lilly-Bell Carnesten Escobar - Team FF TKD
+2. Novali Danielsen Winqvist - Frölunda
+3. Victoria Ibrahim - Jönköping
+3. Amea Qvist - Lindome
+
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
 2. André Anefors - Frölunda
@@ -183,3 +211,9 @@ Spec. Flickor Kadetter VIT/GUL -150cm
 2. Alma Aspegren - Ljungby
 3. Elwira Friberg - Ljungby
 3. Julia Memic - Jönköping
+
+Spec. Flickor Miniorer VIT/GUL +145cm
+1. Stina Geber - Mariestad
+2. Victoria Ibrahim - Jönköping
+3. Amea Qvist - Lindome
+3. Lilly-Bell Carnesten Escobar - Team FF TKD
