@@ -43,6 +43,15 @@ Sparring Pojkar Yngre Miniorer VIT -130cm/-140cm
 2. Olle Geber - Mariestad
 3. Eddie Wong - Linköping
 
+Sparring Pojkar Miniorer VIT -150cm
+1. Joshua Corriere - Team FF TKD
+2. Benjamin Ivarsson - Trollhättan
+
+Sparring Flickor Miniorer GUL -135cm
+1. Emilia Jörneheim Bergh - Jönköping
+2. Rania Al-Debis - Bohus
+3. Vilda Jönsson - Ljungby
+
 Mönster Pojkar Miniorer GUL
 1. Isak Pålsson - Torslanda
 2. Ibrahim Taha - Bohus
@@ -64,6 +73,12 @@ Mönster Flickor Miniorer GUL
 Sparring Flickor Yngre Miniorer VIT -135cm/+135cm
 1. Aurora Karlsson - Frölunda
 2. Aurora Jerez - Bohus
+
+Sparring Flickor Miniorer GUL -145cm
+1. Mirella Gorgis - Jönköping
+2. Lilou Ellorian - Jönköping
+3. Julia Högberg - Lindome
+3. Sedef Halil - Ljungby
 
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
@@ -99,6 +114,20 @@ Kross Pojkar Kadetter VIT/GUL -150cm
 3. Elias Nylund - Lindome
 3. Emir Soylu - Jönköping
 
+Kross Pojkar Kadetter VIT/GUL -160cm
+1. Max Karlsson - Ljungby
+2. Vincent Lindfors - Bohus
+3. Elliot Tafjord - Kungsbacka
+3. Tage Hultbäck - Ljungby
+
+Kross Pojkar Yngre Miniorer VIT/GUL -130cm
+1. William Makarov - Jönköping
+2. Josef Schwartz - Linköping
+
+Kross Flickor Yngre Miniorer VIT/GUL +135cm
+1. Aurora Karlsson - Frölunda
+2. Thilda Gustafsson - Team FF TKD
+
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
 2. André Anefors - Frölunda
@@ -115,3 +144,9 @@ Spec. Pojkar Kadetter VIT/GUL -150cm
 2. Anton Sundberg Bystedt - Team FF TKD
 3. Elias Nylund - Lindome
 3. Emir Soylu - Jönköping
+
+Spec. Flickor Kadetter VIT/GUL -150cm
+1. Valentina Friemann - Team FF TKD
+2. Alma Aspegren - Ljungby
+3. Elwira Friberg - Ljungby
+3. Julia Memic - Jönköping
