@@ -17,6 +17,7 @@ Mönster Flickor/Pojkar Yngre Miniorer VIT
 2. William Hader Sjöland - Kungsbacka
 3. Aurora Karlsson - Frölunda
 3. Eddie Wong - Linköping
+0. Olle Geber - Mariestad
 
 Mönster Flickor Yngre Miniorer GUL
 1. Thilda Gustafsson - Team FF TKD
@@ -32,6 +33,7 @@ Mönster Pojkar Miniorer GRÖN
 2. André Anefors - Frölunda
 3. Benjamin Gustafsson - Team FF TKD
 3. Alfred Nilzén - Jönköping
+0. Francis Abdulmasih - Jönköping
 
 Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm/+140cm
 1. William Makarov - Jönköping
@@ -42,6 +44,7 @@ Sparring Pojkar Yngre Miniorer VIT -130cm/-140cm
 1. William Hader Sjöland - Kungsbacka
 2. Olle Geber - Mariestad
 3. Eddie Wong - Linköping
+0. Josef Schwartz - Linköping
 
 Sparring Pojkar Miniorer VIT -150cm
 1. Joshua Corriere - Team FF TKD
@@ -61,6 +64,7 @@ Sparring Pojkar Miniorer GRÖN -140cm/-150cm
 2. Alfred Nilzén - Jönköping
 3. Amadeus Henriksson - Trollhättan
 3. Benjamin Gustafsson - Team FF TKD
+0. Francis Abdulmasih - Jönköping
 
 Sparring Pojkar Miniorer VIT -140cm
 1. Kian Seven - Kungsbacka
@@ -78,12 +82,29 @@ Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 2. Charlie Grahn - Jönköping
 3. Björn Levisson - Ljungby
 3. Elliot Hellander - Lindome
+0. Julius Frederiksen - Kokkedal
+0. Samuel Oraha - Jönköping
+0. Malte Montelius - Jönköping
+0. Theo Forsberg - Jönköping
+0. Sten Erik Mägi - Jönköping
+0. Oscar Nilzén - Jönköping
+0. Ali Ali Nima - Jönköping
+0. Oskar Kostritsky - Linköping
+0. Axel Järbrink - Torslanda
+0. Cornelis Olofsson - Lindome
+0. Vidar Uddh - Lindome
 
 Mönster Damer Yngre Juniorer GRÖN/BLÅ
 1. Ellen Wong - Linköping
 2. Sofie Eliasson - Frölunda
 3. Ava Boreshnavard - Lindome
 3. Idun Pärnänen - Skara
+0. Elsa Forsgard - Lindome
+0. Elin Bergvi - Lindome
+0. Freja Högvall - Lindome
+0. Donia Al-Debis - Bohus
+0. Agnes Berg - Skara
+0. Märta Ejeklint - Ljungby
 
 Mönster Damer Yngre Juniorer GUL
 1. Wilma Wiksten - Jönköping
@@ -107,11 +128,13 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 1. Björn Levisson - Ljungby
 2. Amel Hotic - Ljungby
 3. Charlie Grahn - Jönköping
+0. Elliot Hellander - Lindome
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ +65kg
 1. Theo Forsberg - Jönköping
 2. Julius Frederiksen - Kokkedal
 3. Cornelis Olofsson - Lindome
+0. Ali Ali Nima - Jönköping
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
 1. Samuel Oraha - Jönköping
@@ -129,6 +152,10 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -65kg
 2. Oscar Nilzén - Jönköping
 3. Malte Montelius - Jönköping
 
+Sparring Damer Seniorer GRÖN/BLÅ -65kg
+1. Rebecca Nickless - Kokkedal
+2. Alexandra Thornberg - Kärra
+
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
@@ -139,6 +166,9 @@ Kross Flickor Kadetter VIT/GUL -150cm
 2. Vladyslava Ass - Team FF TKD
 3. Tallin Känngård - Team FF TKD
 3. Valentina Friemann - Team FF TKD
+0. Wilma Ruhani - Jönköping
+0. Julia Memic - Jönköping
+0. Alma Aspegren - Ljungby
 
 Kross Flickor Kadetter VIT/GUL -160cm
 1. Lykke Norin - Jönköping
@@ -156,6 +186,9 @@ Kross Pojkar Miniorer VIT/GUL -140cm
 2. Mario Ellorian - Jönköping
 3. Napoleon Danielsen Winqvist - Frölunda
 3. Elias Maruwge - Jönköping
+0. Leo Eriksson - Team FF TKD
+0. Alan Eriksson - Team FF TKD
+0. Loke Känngård - Team FF TKD
 
 Kross Pojkar Kadetter VIT/GUL -150cm
 1. Anton Sundberg Bystedt - Team FF TKD
@@ -168,6 +201,11 @@ Kross Pojkar Kadetter VIT/GUL -160cm
 2. Vincent Lindfors - Bohus
 3. Elliot Tafjord - Kungsbacka
 3. Tage Hultbäck - Ljungby
+0. Valter Aspegren - Ljungby
+0. Alexander Gustavsson - Ljungby
+0. Erling Forsman - Jönköping
+0. Ludvig Blomqvist - Jönköping
+0. Karl Anefors - Frölunda
 
 Kross Pojkar Yngre Miniorer VIT/GUL -130cm
 1. William Makarov - Jönköping
@@ -182,12 +220,18 @@ Kross Pojkar Yngre Miniorer VIT/GUL -140cm/+140cm
 2. Emilio Jerez - Bohus
 3. Olle Geber - Mariestad
 3. Eddie Wong - Linköping
+0. Sigge Thunborg - Mariestad
+0. William Hader Sjöland - Kungsbacka
 
 Kross Flickor Miniorer VIT/GUL -145cm
 1. Mirella Gorgis - Jönköping
 2. Leah Pham - Kungsbacka
 3. Alisa Kazak - Linköping
 3. Julia Högberg - Lindome
+0. Winga Känngård - Team FF TKD
+0. Yona-Evangeline Oraha - Jönköping
+0. Sedef Halil - Ljungby
+0. Lilou Ellorian - Jönköping
 
 Kross Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 1. Sigrid Arpe - Göteborg Kampsportsförening
@@ -203,24 +247,46 @@ Kross Flickor Miniorer VIT/GUL +145cm
 2. Novali Danielsen Winqvist - Frölunda
 3. Victoria Ibrahim - Jönköping
 3. Amea Qvist - Lindome
+0. Selma Andersson - Lindome
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. André Anefors - Frölunda
 2. Amadeus Henriksson - Trollhättan
 3. Alfred Nilzén - Jönköping
 3. Francis Abdulmasih - Jönköping
+0. Benjamin Gustafsson - Team FF TKD
 
 Kross Pojkar Miniorer VIT/GUL -150cm/+150cm
 1. Alexandros Giannakos - Kärra
 2. Emmanuil Fasolis - Linköping
 3. Valentino Jerez - Bohus
 3. Carl Walde Åberg - Ljungby
+0. Gunnar Hammarlund - Jönköping
+0. William Ahlberg - Ljungby
+0. Joshua Corriere - Team FF TKD
+0. Magnus Sandström - Mariestad
+0. Colin Strannhage - Ljungby
+0. Isak Pålsson - Torslanda
+0. Colin Ahlberg - Ljungby
+0. James Everkrans - Ljungby
+0. Adian Fejza - Jönköping
+0. Theo Hylén - Lindome
+0. Benjamin Ivarsson - Trollhättan
 
 Kross Damer Yngre Juniorer
 1. Elin Bergvi - Lindome
 2. Idun Pärnänen - Skara
 3. Märta Ejeklint - Ljungby
 3. Elsa Forsgard - Lindome
+0. Wilma Wiksten - Jönköping
+0. Ellen Wong - Linköping
+0. Freja Högvall - Lindome
+0. Agnes Berg - Skara
+0. Elin Cedermark - Jönköping
+0. Emma Cenanovic - Jönköping
+0. Ava Boreshnavard - Lindome
+0. Donia Al-Debis - Bohus
+0. Sofie Eliasson - Frölunda
 
 Kross Damer Juniorer
 1. Gloria Nikell - Kungsbacka
@@ -237,30 +303,40 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 2. Fanna Fesshay - Bohus
 3. Stella Nygren - Ljungby
 3. Elna Söderberg - Ljungby
+0. Lucia Chamoun - Jönköping
+0. Isabelle Henricsson - Mariestad
 
 Kross Damer Seniorer
 1. Gordana Ceprnja - Göteborg Phoenix
 2. Alicia Kroon - Torslanda
 3. Alexandra Thornberg - Kärra
 3. Rebecca Nickless - Kokkedal
+0. Anzhelika Robinson - Team FF TKD
+0. Johanne Linstad - Skara
+0. Pillan Fihn - Ljungby
+0. Isabell Brolin - Kungsbacka
+0. Fannie Ljungberg - Skara
 
 Kross Herrar Seniorer
 1. Michel Duso Joviken - Kungsbacka
 2. Lucas Thiesen - Kokkedal
 3. Gustaf Justander - Kungsbacka
 3. Jimmy Liew - Torslanda
+0. Niklas Strannhage - Ljungby
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Folke Beecken - Göteborg Kampsportsförening
 2. Walter Hultbäck - Ljungby
 3. Donatello Baymano - Jönköping
 3. Aston Haglund - Frölunda
+0. Hugo Törnbrink - Göteborg Kampsportsförening
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm/+160cm
 1. Isidor Dahlberg - Frölunda
 2. William Nilsson - Frölunda
 3. Oliver Wiberg - Kärra
 3. Hannes Tranberg - Skara
+0. Axel Kilenstam - Göteborg Kampsportsförening
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Mira Düfke - Lindome
@@ -278,42 +354,86 @@ Kross Herrar Yngre Juniorer
 2. Oscar Nilzén - Jönköping
 3. Karim Sammoury - Jönköping
 3. Vidar Uddh - Lindome
+0. Oskar Kostritsky - Linköping
+0. Sten Erik Mägi - Jönköping
+0. Jack Geary - Ljungby
+0. Charlie Grahn - Jönköping
+0. Liam Eriksson - Bohus
+0. Cornelis Olofsson - Lindome
+0. Ali Ali Nima - Jönköping
+0. Theo Forsberg - Jönköping
+0. Samuel Oraha - Jönköping
+0. Axel Järbrink - Torslanda
+0. Elliot Hellander - Lindome
+0. Malte Montelius - Jönköping
 
 Mönster Pojkar Miniorer GUL
 1. Isak Pålsson - Torslanda
 2. Ibrahim Taha - Bohus
 3. Vincent Zorjan - Göteborg Kampsportsförening
 3. Napoleon Danielsen Winqvist - Frölunda
+0. Mario Ellorian - Jönköping
+0. Gunnar Hammarlund - Jönköping
+0. Adian Fejza - Jönköping
+0. Emmanuil Fasolis - Linköping
+0. Leo Eriksson - Team FF TKD
+0. Alan Eriksson - Team FF TKD
+0. Alexandros Giannakos - Kärra
+0. Theo Hylén - Lindome
+0. Valentino Jerez - Bohus
+0. Colin Ahlberg - Ljungby
 
 Mönster Flickor/Pojkar Miniorer VIT
 1. Leah Pham - Kungsbacka
 2. Kian Seven - Kungsbacka
 3. Loke Känngård - Team FF TKD
 3. Benjamin Ivarsson - Trollhättan
+0. Elias Maruwge - Jönköping
 
 Sparring Pojkar Miniorer GUL -150cm/+150cm
 1. Adian Fejza - Jönköping
 2. Alexandros Giannakos - Kärra
 3. Gunnar Hammarlund - Jönköping
 3. Ibrahim Taha - Bohus
+0. Magnus Sandström - Mariestad
+0. Valentino Jerez - Bohus
+0. Theo Hylén - Lindome
+0. Vincent Zorjan - Göteborg Kampsportsförening
+0. Isak Pålsson - Torslanda
+0. Emmanuil Fasolis - Linköping
 
 Mönster Pojkar Kadetter GUL
 1. Tage Hultbäck - Ljungby
 2. Leon Sarmark Mattsson - Kungsbacka
 3. Alexander Gustavsson - Ljungby
 3. Max Karlsson - Ljungby
+0. Elias Nylund - Lindome
+0. Vincent Lindfors - Bohus
+0. Antonio Jerez - Bohus
+0. Tor Uddh - Lindome
+0. Valter Aspegren - Ljungby
+0. Anton Sundberg Bystedt - Team FF TKD
 
 Mönster Pojkar Kadetter GRÖN
 1. Walter Hultbäck - Ljungby
 2. William Nilsson - Frölunda
 3. Aston Haglund - Frölunda
 3. Folke Beecken - Göteborg Kampsportsförening
+0. Donatello Baymano - Jönköping
+0. Hannes Tranberg - Skara
+0. Isidor Dahlberg - Frölunda
+0. Oliver Wiberg - Kärra
+0. Hugo Törnbrink - Göteborg Kampsportsförening
+0. Axel Kilenstam - Göteborg Kampsportsförening
 
 Mönster Pojkar Kadetter VIT
 1. Karl Anefors - Frölunda
 2. Elliot Tafjord - Kungsbacka
 3. Emir Soylu - Jönköping
 3. Wiktor Sundkvist - Jönköping
+0. Ludvig Blomqvist - Jönköping
+0. William Urbán - Jönköping
+0. Erling Forsman - Jönköping
 
 Mönster Flickor Kadetter BLÅ/RÖD
 1. Fanna Fesshay - Bohus
@@ -329,6 +449,8 @@ Mönster Damer Seniorer GRÖN/BLÅ
 2. Alexandra Thornberg - Kärra
 3. Anzhelika Robinson - Team FF TKD
 3. Alicia Kroon - Torslanda
+0. Fannie Ljungberg - Skara
+0. Pillan Fihn - Ljungby
 
 Mönster Damer/Herrar Seniorer GUL
 1. Isabell Brolin - Kungsbacka
@@ -341,6 +463,7 @@ Sparring Pojkar Kadetter GUL -160cm
 2. Tage Hultbäck - Ljungby
 3. Alexander Gustavsson - Ljungby
 3. Vincent Lindfors - Bohus
+0. Valter Aspegren - Ljungby
 
 Sparring Pojkar Kadetter VIT -150cm
 1. Wiktor Sundkvist - Jönköping
@@ -358,6 +481,7 @@ Sparring Flickor Kadetter GRÖN -160cm
 1. Stella Nygren - Ljungby
 2. Lovisa Lundberg - Skara
 3. Elna Söderberg - Ljungby
+0. Lucia Chamoun - Jönköping
 
 Sparring Flickor Kadetter BLÅ/RÖD -160cm/+160cm
 1. Wilma Pettersson - Bohus
@@ -381,11 +505,18 @@ Sparring Damer Seniorer GRÖN/BLÅ -70kg/+70kg (B)
 1. Pillan Fihn - Ljungby
 2. Fannie Ljungberg - Skara
 
+Sparring Flickor Kadetter GRÖN -150cm
+1. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
+2. Alma Larsson - Ljungby
+3. Emma Levisson - Ljungby
+0. Mira Düfke - Lindome
+
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
 2. André Anefors - Frölunda
 3. Amadeus Henriksson - Trollhättan
 3. Francis Abdulmasih - Jönköping
+0. Alfred Nilzén - Jönköping
 
 Spec. Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
 1. Sigrid Arpe - Göteborg Kampsportsförening
@@ -403,12 +534,17 @@ Spec. Flickor Kadetter VIT/GUL -150cm
 2. Alma Aspegren - Ljungby
 3. Elwira Friberg - Ljungby
 3. Julia Memic - Jönköping
+0. Vladyslava Ass - Team FF TKD
+0. Wilma Ruhani - Jönköping
+0. Tallin Känngård - Team FF TKD
 
 Spec. Flickor Miniorer VIT/GUL +145cm
 1. Stina Geber - Mariestad
 2. Victoria Ibrahim - Jönköping
 3. Amea Qvist - Lindome
 3. Lilly-Bell Carnesten Escobar - Team FF TKD
+0. Selma Andersson - Lindome
+0. Novali Danielsen Winqvist - Frölunda
 
 Spec. Flickor Kadetter VIT/GUL -160cm
 1. Lykke Norin - Jönköping
@@ -428,28 +564,49 @@ Spec. Flickor Yngre Miniorer VIT/GUL -135cm/+135cm
 
 Spec. Pojkar Miniorer VIT/GUL -140cm
 1. Mario Ellorian - Jönköping
+0. Napoleon Danielsen Winqvist - Frölunda
+0. Kian Seven - Kungsbacka
+0. Leo Eriksson - Team FF TKD
+0. Loke Känngård - Team FF TKD
+0. Elias Maruwge - Jönköping
+0. Alan Eriksson - Team FF TKD
 
 Spec. Flickor Miniorer VIT/GUL -135cm
 1. Rania Al-Debis - Bohus
 2. Emilia Jörneheim Bergh - Jönköping
+0. Vilda Jönsson - Ljungby
 
 Spec. Pojkar Miniorer VIT/GUL -150cm
 1. Emmanuil Fasolis - Linköping
 2. Gunnar Hammarlund - Jönköping
 3. Valentino Jerez - Bohus
 3. Adian Fejza - Jönköping
+0. Colin Ahlberg - Ljungby
+0. Joshua Corriere - Team FF TKD
+0. Isak Pålsson - Torslanda
+0. Theo Hylén - Lindome
+0. Magnus Sandström - Mariestad
+0. Alexandros Giannakos - Kärra
+0. Benjamin Ivarsson - Trollhättan
 
 Spec. Flickor Miniorer VIT/GUL -145cm
 1. Leah Pham - Kungsbacka
 2. Mirella Gorgis - Jönköping
 3. Sedef Halil - Ljungby
 3. Alisa Kazak - Linköping
+0. Julia Högberg - Lindome
+0. Lilou Ellorian - Jönköping
+0. Winga Känngård - Team FF TKD
+0. Yona-Evangeline Oraha - Jönköping
 
 Spec. Pojkar Yngre Miniorer VIT/GUL -130cm/-140cm/+140cm
 1. Emilio Jerez - Bohus
 2. Harry Andersson - Lindome
 3. William Hader Sjöland - Kungsbacka
 3. Olle Geber - Mariestad
+0. Sigge Thunborg - Mariestad
+0. William Makarov - Jönköping
+0. Eddie Wong - Linköping
 
 Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Emma Levisson - Ljungby
@@ -461,12 +618,14 @@ Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 2. Fanna Fesshay - Bohus
 3. Elna Söderberg - Ljungby
 3. Lovisa Lundberg - Skara
+0. Lucia Chamoun - Jönköping
 
 Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 1. Folke Beecken - Göteborg Kampsportsförening
 2. Walter Hultbäck - Ljungby
 3. Hugo Törnbrink - Göteborg Kampsportsförening
 3. Aston Haglund - Frölunda
+0. Donatello Baymano - Jönköping
 
 Spec. Herrar Seniorer
 1. Michel Duso Joviken - Kungsbacka
@@ -478,25 +637,52 @@ Spec. Herrar Yngre Juniorer
 2. Julius Frederiksen - Kokkedal
 3. Karim Sammoury - Jönköping
 3. Sten Erik Mägi - Jönköping
+0. Malte Montelius - Jönköping
+0. Charlie Grahn - Jönköping
+0. Axel Järbrink - Torslanda
+0. Jack Geary - Ljungby
+0. Ali Ali Nima - Jönköping
+0. Samuel Oraha - Jönköping
+0. Cornelis Olofsson - Lindome
+0. Vidar Uddh - Lindome
+0. Oscar Nilzén - Jönköping
+0. Liam Eriksson - Bohus
 
 Spec. Damer Seniorer
 1. Gordana Ceprnja - Göteborg Phoenix
 2. Rebecca Nickless - Kokkedal
+0. Alicia Kroon - Torslanda
+0. Alexandra Thornberg - Kärra
+0. Fannie Ljungberg - Skara
+0. Anzhelika Robinson - Team FF TKD
+0. Pillan Fihn - Ljungby
 
 Spec. Damer Yngre Juniorer
 1. Märta Ejeklint - Ljungby
 2. Elsa Forsgard - Lindome
 3. Elin Bergvi - Lindome
 3. Ava Boreshnavard - Lindome
+0. Elin Cedermark - Jönköping
+0. Emma Cenanovic - Jönköping
+0. Wilma Wiksten - Jönköping
+0. Ellen Wong - Linköping
+0. Idun Pärnänen - Skara
+0. Agnes Berg - Skara
+0. Donia Al-Debis - Bohus
 
 Spec. Damer Juniorer
 1. Gloria Nikell - Kungsbacka
+0. Lilly Corriere - Team FF TKD
 
 Spec. Pojkar Kadetter VIT/GUL -160cm
 1. Tage Hultbäck - Ljungby
 2. Max Karlsson - Ljungby
 3. Elliot Tafjord - Kungsbacka
 3. Ludvig Blomqvist - Jönköping
+0. Karl Anefors - Frölunda
+0. Erling Forsman - Jönköping
+0. Vincent Lindfors - Bohus
+0. Valter Aspegren - Ljungby
 
 Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm/+160cm
 1. William Nilsson - Frölunda
@@ -507,6 +693,7 @@ Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm/+160cm
 Spec. Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
+0. William Urbán - Jönköping
 
 Spec. Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 1. Nellie Tran - Bohus
@@ -518,6 +705,19 @@ Mönster Flickor Miniorer GUL
 2. Winga Känngård - Team FF TKD
 3. Alisa Kazak - Linköping
 3. Novali Danielsen Winqvist - Frölunda
+0. Selma Andersson - Lindome
+0. Amea Qvist - Lindome
+0. Julia Högberg - Lindome
+0. Idun Wästlund - Frölunda
+0. Rania Al-Debis - Bohus
+0. Lilly-Bell Carnesten Escobar - Team FF TKD
+0. Sedef Halil - Ljungby
+0. Emilia Jörneheim Bergh - Jönköping
+0. Stina Geber - Mariestad
+0. Yona-Evangeline Oraha - Jönköping
+0. Lilou Ellorian - Jönköping
+0. Mirella Gorgis - Jönköping
+0. Victoria Ibrahim - Jönköping
 
 Sparring Flickor Yngre Miniorer VIT -135cm/+135cm
 1. Aurora Karlsson - Frölunda
@@ -528,30 +728,49 @@ Sparring Flickor Miniorer GUL -145cm
 2. Lilou Ellorian - Jönköping
 3. Julia Högberg - Lindome
 3. Sedef Halil - Ljungby
+0. Yona-Evangeline Oraha - Jönköping
+0. Winga Känngård - Team FF TKD
+0. Alisa Kazak - Linköping
 
 Sparring Flickor Miniorer GUL +145cm
 1. Victoria Ibrahim - Jönköping
 2. Novali Danielsen Winqvist - Frölunda
 3. Lilly-Bell Carnesten Escobar - Team FF TKD
 3. Stina Geber - Mariestad
+0. Selma Andersson - Lindome
+0. Amea Qvist - Lindome
 
 Mönster Flickor Kadetter GUL
 1. Elwira Friberg - Ljungby
 2. Ebba Halldin - Linköping
 3. Jannah Taha - Bohus
 3. Alma Aspegren - Ljungby
+0. Elin Wounlund - Lindome
+0. Olivia Wiberg - Kärra
+0. Vladyslava Ass - Team FF TKD
+0. Valentina Friemann - Team FF TKD
+0. Tallin Känngård - Team FF TKD
 
 Mönster Flickor Kadetter VIT
 1. Lykke Norin - Jönköping
 2. Elina Chamo - Jönköping
 3. Wilma Ruhani - Jönköping
 3. Julia Memic - Jönköping
+0. Adelina Mustafa - Jönköping
+0. Aysima Kocak - Jönköping
 
 Mönster Flickor Kadetter GRÖN
 1. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
 2. Alexandra Andersson - Bohus
 3. Stella Nygren - Ljungby
 3. Nowa Fihn - Ljungby
+0. Mira Düfke - Lindome
+0. Nellie Tran - Bohus
+0. Alma Larsson - Ljungby
+0. Elna Söderberg - Ljungby
+0. Emma Levisson - Ljungby
+0. Lucia Chamoun - Jönköping
+0. Lovisa Lundberg - Skara
 
 Sparring Pojkar Kadetter GRÖN -160cm
 1. Axel Kilenstam - Göteborg Kampsportsförening
@@ -579,6 +798,7 @@ Sparring Pojkar Kadetter GRÖN -150cm
 2. Walter Hultbäck - Ljungby
 3. Folke Beecken - Göteborg Kampsportsförening
 3. Aston Haglund - Frölunda
+0. Donatello Baymano - Jönköping
 
 Sparring Pojkar Kadetter GUL -150cm
 1. Anton Sundberg Bystedt - Team FF TKD
@@ -599,6 +819,7 @@ Sparring Flickor Kadetter GUL -150cm
 2. Vladyslava Ass - Team FF TKD
 3. Tallin Känngård - Team FF TKD
 3. Alma Aspegren - Ljungby
+0. Valentina Friemann - Team FF TKD
 
 Sparring Flickor Miniorer VIT -145cm
 1. Leah Pham - Kungsbacka
