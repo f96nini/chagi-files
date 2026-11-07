@@ -119,6 +119,11 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
 3. Sten Erik Mägi - Jönköping
 3. Vidar Uddh - Lindome
 
+Sparring Damer Yngre Juniorer GRÖN/BLÅ -53kg
+1. Ellen Wong - Linköping
+2. Elsa Forsgard - Lindome
+3. Freja Högvall - Lindome
+
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
@@ -263,6 +268,12 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 3. Nowa Fihn - Ljungby
 3. Wilma Pettersson - Bohus
 
+Kross Herrar Yngre Juniorer
+1. Julius Frederiksen - Kokkedal
+2. Oscar Nilzén - Jönköping
+3. Karim Sammoury - Jönköping
+3. Vidar Uddh - Lindome
+
 Mönster Pojkar Miniorer GUL
 1. Isak Pålsson - Torslanda
 2. Ibrahim Taha - Bohus
@@ -356,6 +367,14 @@ Sparring Herrar Seniorer GRÖN/BLÅ +87kg
 1. Jimmy Liew - Torslanda
 2. Michel Duso Joviken - Kungsbacka
 3. Lucas Thiesen - Kokkedal
+
+Sparring Damer Seniorer GRÖN/BLÅ -55kg/-60kg (B)
+1. Alicia Kroon - Torslanda
+2. Anzhelika Robinson - Team FF TKD
+
+Sparring Damer Seniorer GRÖN/BLÅ -70kg/+70kg (B)
+1. Pillan Fihn - Ljungby
+2. Fannie Ljungberg - Skara
 
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
@@ -479,6 +498,15 @@ Spec. Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm/+160cm
 2. Hannes Tranberg - Skara
 3. Isidor Dahlberg - Frölunda
 3. Oliver Wiberg - Kärra
+
+Spec. Pojkar Kadetter VIT/GUL +160cm
+1. Leon Sarmark Mattsson - Kungsbacka
+2. Tor Uddh - Lindome
+
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
+1. Nellie Tran - Bohus
+2. Alexandra Andersson - Bohus
+3. Nowa Fihn - Ljungby
 
 Mönster Flickor Miniorer GUL
 1. Vilda Jönsson - Ljungby
