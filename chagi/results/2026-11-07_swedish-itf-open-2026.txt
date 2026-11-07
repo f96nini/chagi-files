@@ -90,6 +90,11 @@ Mönster Damer Yngre Juniorer GUL
 2. Emma Cenanovic - Jönköping
 3. Elin Cedermark - Jönköping
 
+Mönster Herrar Seniorer GRÖN/BLÅ
+1. Jimmy Liew - Torslanda
+2. Michel Duso Joviken - Kungsbacka
+3. Lucas Thiesen - Kokkedal
+
 Kross Pojkar Kadetter VIT/GUL +160cm
 1. Leon Sarmark Mattsson - Kungsbacka
 2. Tor Uddh - Lindome
@@ -199,6 +204,18 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 3. Stella Nygren - Ljungby
 3. Elna Söderberg - Ljungby
 
+Kross Damer Seniorer
+1. Gordana Ceprnja - Göteborg Phoenix
+2. Alicia Kroon - Torslanda
+3. Alexandra Thornberg - Kärra
+3. Rebecca Nickless - Kokkedal
+
+Kross Herrar Seniorer
+1. Michel Duso Joviken - Kungsbacka
+2. Lucas Thiesen - Kokkedal
+3. Gustaf Justander - Kungsbacka
+3. Jimmy Liew - Torslanda
+
 Mönster Pojkar Miniorer GUL
 1. Isak Pålsson - Torslanda
 2. Ibrahim Taha - Bohus
@@ -255,6 +272,12 @@ Mönster Damer/Herrar Seniorer GUL
 2. Gustaf Justander - Kungsbacka
 3. Johanne Linstad - Skara
 3. Gordana Ceprnja - Göteborg Phoenix
+
+Sparring Pojkar Kadetter GUL -160cm
+1. Max Karlsson - Ljungby
+2. Tage Hultbäck - Ljungby
+3. Alexander Gustavsson - Ljungby
+3. Vincent Lindfors - Bohus
 
 Spec. Pojkar Miniorer GRÖN/BLÅ/RÖD -140cm/-150cm
 1. Benjamin Gustafsson - Team FF TKD
@@ -331,6 +354,12 @@ Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 2. Litea Vanilja Sylvenius - Göteborg Kampsportsförening
 3. Mira Düfke - Lindome
 
+Spec. Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
+1. Stella Nygren - Ljungby
+2. Fanna Fesshay - Bohus
+3. Elna Söderberg - Ljungby
+3. Lovisa Lundberg - Skara
+
 Mönster Flickor Miniorer GUL
 1. Vilda Jönsson - Ljungby
 2. Winga Känngård - Team FF TKD
@@ -376,6 +405,16 @@ Sparring Pojkar Kadetter GRÖN -160cm
 2. Oliver Wiberg - Kärra
 3. Isidor Dahlberg - Frölunda
 3. Hannes Tranberg - Skara
+
+Sparring Pojkar Kadetter VIT -160cm/+160cm
+1. Elliot Tafjord - Kungsbacka
+2. William Urbán - Jönköping
+3. Erling Forsman - Jönköping
+3. Ludvig Blomqvist - Jönköping
+
+Sparring Flickor Kadetter VIT -150cm
+1. Julia Memic - Jönköping
+2. Wilma Ruhani - Jönköping
 
 Sparring Flickor Miniorer VIT -145cm
 1. Leah Pham - Kungsbacka

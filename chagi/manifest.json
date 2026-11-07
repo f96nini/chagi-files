@@ -1,6 +1,6 @@
 {
   "version": "2026-11-07",
-  "updated": "2026-11-07T13:00:28.0441543Z",
+  "updated": "2026-11-07T13:17:01.0623150Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -108,11 +108,11 @@
     },
     {
       "path": "results/2026-11-07_swedish-itf-open-2026.txt",
-      "sha256": "63f2c4634625993b447e698129313287409c119f8c6a957275f85fe95c43d1bc"
+      "sha256": "b1f62e74829305f9583876d300439d6b91d96313fd70e2d92d2649d75dac457d"
     },
     {
       "path": "matches/2026-11-07_swedish-itf-open-2026.json",
-      "sha256": "6c4c704814ddbcf8a56a32697c6a7aeda788ca4e6738686d63e0e44854d9da0a"
+      "sha256": "964df4b87d158ab8694d43bb22ca85cae239e1bb9eddb5eff33339ad82793a4d"
     }
   ]
 }
