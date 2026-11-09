@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "events": [
+    {
+      "startDate": "2027-01-23",
+      "country": "Norge",
+      "city": "Trondheim",
+      "title": "Midt-Norsk Mesterskap",
+      "url": "https://www.ntkd.no/terminliste"
+    },
+    {
+      "startDate": "2027-01-30",
+      "country": "Nederländerna",
+      "city": "Helmond",
+      "title": "Open Dutch",
+      "url": "https://www.itf-nederland.nl/evenement/open-dutch-2027/"
+    },
+    {
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-07",
+      "country": "Finland",
+      "city": "Tornio",
+      "title": "HelmiCup",
+      "url": "https://taekwon-do.fi/tapahtumakalenteri/kaikki-tapahtumat/"
+    },
+    {
+      "startDate": "2027-02-14",
+      "country": "Nederländerna",
+      "city": "Ej angiven",
+      "title": "SSTK Open",
+      "url": "https://www.itf-nederland.nl/evenement/sstk-open-2027/"
+    },
+    {
+      "startDate": "2027-03-14",
+      "country": "Nederländerna",
+      "city": "Almere",
+      "title": "FlevoCup",
+      "url": "https://www.itf-nederland.nl/evenement/flevocup-2027/"
+    },
+    {
+      "startDate": "2027-03-20",
+      "country": "Polen",
+      "city": "Wrocław",
+      "title": "Master Cup",
+      "url": "https://www.ger-itf.de/event/master-cup-2027/",
+      "tentative": true
+    },
+    {
+      "startDate": "2027-03-27",
+      "country": "Nederländerna",
+      "city": "Nunspeet",
+      "title": "Open Noord West Veluwe",
+      "url": "https://www.itf-nederland.nl/evenement/open-noord-west-veluwe-2027/"
+    },
+    {
+      "startDate": "2027-04-24",
+      "country": "Norge",
+      "city": "Trondheim",
+      "title": "Midt-Norsk Mesterskap",
+      "url": "https://www.ntkd.no/terminliste"
+    },
+    {
+      "startDate": "2027-05-08",
+      "country": "Tyskland",
+      "city": "Bochum",
+      "title": "German ITF Open Championships",
+      "url": "https://www.ger-itf.de/event/german-itf-open-championships-2027/"
+    },
+    {
+      "startDate": "2027-05-29",
+      "country": "Nederländerna",
+      "city": "Ej angiven",
+      "title": "Holland Cup",
+      "url": "https://www.itf-nederland.nl/evenement/holland-cup-2027/"
+    },
+    {
+      "startDate": "2027-09-25",
+      "country": "Nederländerna",
+      "city": "Groningen",
+      "title": "Dragon Open",
+      "url": "https://dragonopen.nl/"
+    }
+  ]
+}
