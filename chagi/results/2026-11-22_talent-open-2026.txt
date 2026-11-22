@@ -246,10 +246,10 @@ Sparring Pojkar Kadetter VIT -160cm/+160cm
 0. Lucas Tibell - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GUL -150cm
-0. Ainan Ikeljić - Kungälv
-0. Lorentz Braun - Bohus
-0. Maksim Svensson - Göteborg Kampsport
-0. Elias Nylund - Lindome
+1. Ainan Ikeljić - Kungälv
+2. Lorentz Braun - Bohus
+3. Elias Nylund - Lindome
+3. Maksim Svensson - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GUL -160cm
 0. Lion Holmeby - Trollhättan
@@ -391,14 +391,14 @@ Sparring Flickor Kadetter VIT -160cm
 2. Wehazit Goytom - Bohus
 
 Sparring Pojkar Kadetter GRÖN -150cm
-0. Hugo Törnbrink - Göteborg Kampsport
-0. Sigge Wallmark - Göteborg Kampsport
-0. Folke Beecken - Göteborg Kampsport
+1. Hugo Törnbrink - Göteborg Kampsport
+2. Aston Haglund - Frölunda
+3. Folke Beecken - Göteborg Kampsport
+3. Sigge Wallmark - Göteborg Kampsport
 0. Metmku Abraham - Hisingen
 0. George Eliasson - Hisingen
 0. Nathaniel Racho - Kärra
 0. Lucas Mateus Wipenmyr - Kärra
-0. Aston Haglund - Frölunda
 
 Sparring Pojkar Kadetter GRÖN -160cm
 0. Oliver Wiberg - Kärra
@@ -513,14 +513,14 @@ Mönster Flickor Kadetter BLÅ/RÖD
 0. Milla Sandblom - Mölnlycke
 
 Sparring Flickor Kadetter GRÖN -150cm
+1. Litea Vanilja Sylvenius - Göteborg Kampsport
+2. Alma Larsson - Ljungby
+3. Emma Levisson - Ljungby
+3. Astrid Falk - Göteborg Kampsport
 0. Mira Düfke - Lindome
-0. Astrid Falk - Göteborg Kampsport
-0. Litea Vanilja Sylvenius - Göteborg Kampsport
 0. Nelli Kristiansen - Göteborg Kampsport
 0. Charlize Guetat - Göteborg Kampsport
 0. Julie Kjaerbeck Emilsson - Torslanda
-0. Emma Levisson - Ljungby
-0. Alma Larsson - Ljungby
 
 Sparring Flickor Kadetter GRÖN -160cm
 0. Elna Söderberg - Ljungby
@@ -745,10 +745,10 @@ Kross Pojkar Kadetter VIT/GUL -160cm
 0. Lion Holmeby - Trollhättan
 
 Kross Flickor Kadetter VIT/GUL +160cm
-0. Elise Börjesson - Frölunda
-0. Emelie Nordwall - Trollhättan
-0. Olivia Wiberg - Kärra
-0. Estrid Landegren - Frölunda
+1. Emelie Nordwall - Trollhättan
+2. Olivia Wiberg - Kärra
+3. Elise Börjesson - Frölunda
+3. Estrid Landegren - Frölunda
 
 Kross Flickor Kadetter VIT/GUL -160cm
 0. Nina De Flon - Mölnlycke
