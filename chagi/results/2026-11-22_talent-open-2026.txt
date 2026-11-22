@@ -121,12 +121,12 @@ Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
 2. Jack Geary - Ljungby
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
+1. William Nilsson - Frölunda
+2. Bill Bäckström - Frölunda
+3. Ture Paulsson - Torslanda
+3. Melvin Pihlgren - Kärra
 0. Björn Levisson - Ljungby
 0. Alexander Stenbeck - Kärra
-0. Melvin Pihlgren - Kärra
-0. Bill Bäckström - Frölunda
-0. William Nilsson - Frölunda
-0. Ture Paulsson - Torslanda
 0. Elliot Hellander - Lindome
 0. Linus Mårdberg - Mölnlycke
 
@@ -252,11 +252,11 @@ Sparring Pojkar Kadetter GUL -150cm
 3. Maksim Svensson - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GUL -160cm
-0. Lion Holmeby - Trollhättan
-0. Vincent Lindfors - Bohus
-0. Noa Petrén Olauson - Torslanda
+1. Vincent Lindfors - Bohus
+2. Noa Petrén Olauson - Torslanda
+3. Lion Holmeby - Trollhättan
+3. Glenn Larsson - Frölunda
 0. Jakob Oladrabiei - Göteborg Kampsport
-0. Glenn Larsson - Frölunda
 0. Liam Fejzic - Hisingen
 
 Sparring Pojkar Kadetter GUL +160cm
@@ -401,10 +401,10 @@ Sparring Pojkar Kadetter GRÖN -150cm
 0. Lucas Mateus Wipenmyr - Kärra
 
 Sparring Pojkar Kadetter GRÖN -160cm
-0. Oliver Wiberg - Kärra
-0. Vincent Seiter - Frölunda
-0. Jakob Ullerstam - Göteborg Kampsport
-0. Axel Kilenstam - Göteborg Kampsport
+1. Vincent Seiter - Frölunda
+2. Axel Kilenstam - Göteborg Kampsport
+3. Oliver Wiberg - Kärra
+3. Jakob Ullerstam - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GRÖN +160cm
 0. Edin Osmanspahic - Kärra
@@ -731,17 +731,17 @@ Kross Pojkar Kadetter VIT/GUL +160cm
 0. Oscar Hultgren - Lindome
 
 Kross Pojkar Kadetter VIT/GUL -160cm
+1. Jakob Oladrabiei - Göteborg Kampsport
+2. Glenn Larsson - Frölunda
+3. Vincent Lindfors - Bohus
+3. Ville Ottosson - Göteborg Kampsport
 0. Oscar Ahlstrand - Kungsbacka
-0. Ville Ottosson - Göteborg Kampsport
 0. Liam Fejzic - Hisingen
-0. Glenn Larsson - Frölunda
 0. Tim Carlsson - Lindome
 0. Karl Anefors - Frölunda
 0. Noa Petrén Olauson - Torslanda
 0. Elliot Tafjord - Kungsbacka
-0. Jakob Oladrabiei - Göteborg Kampsport
 0. Hugo Planhage - Göteborg Kampsport
-0. Vincent Lindfors - Bohus
 0. Lion Holmeby - Trollhättan
 
 Kross Flickor Kadetter VIT/GUL +160cm
@@ -765,13 +765,13 @@ Kross Flickor Kadetter VIT/GUL -150cm
 3. Chloé Wong - Kärra
 
 Kross Damer Yngre Juniorer
+1. Ava Boreshnavard - Lindome
+2. Elin Bergvi - Lindome
+3. Elsa Forsgard - Lindome
+3. Salma Raid - Bohuslän
 0. Nima Ahlén - Kungälv
-0. Elsa Forsgard - Lindome
 0. Samyuktha Venkatesh - Kungälv
-0. Ava Boreshnavard - Lindome
-0. Salma Raid - Bohuslän
 0. Evelin Lam - Frölunda
-0. Elin Bergvi - Lindome
 0. Donia Al-Debis - Bohus
 0. Sofie Eliasson - Frölunda
 
