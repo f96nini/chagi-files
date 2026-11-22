@@ -117,8 +117,8 @@ Mönster Damer Yngre Juniorer GRÖN/BLÅ
 0. Ella Magnusson - Bohuslän
 
 Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
-0. Tiger Olsson - Frölunda
-0. Jack Geary - Ljungby
+1. Tiger Olsson - Frölunda
+2. Jack Geary - Ljungby
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 0. Björn Levisson - Ljungby
@@ -382,8 +382,8 @@ Mönster Flickor Kadetter GUL
 0. Estrid Landegren - Frölunda
 
 Sparring Flickor Kadetter VIT -160cm
-0. Wehazit Goytom - Bohus
-0. Amila Erkocevic - Bohuslän
+1. Amila Erkocevic - Bohuslän
+2. Wehazit Goytom - Bohus
 
 Sparring Pojkar Kadetter GRÖN -150cm
 0. Hugo Törnbrink - Göteborg Kampsport
@@ -697,15 +697,15 @@ Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
 3. Vincent Seiter - Frölunda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
-0. Elna Söderberg - Ljungby
+1. Fanna Fesshay - Bohus
+2. Stella Nygren - Ljungby
+3. Elna Söderberg - Ljungby
+3. Milla Sandblom - Mölnlycke
 0. Shaly- Alba Nasiri- Akech - Stockholm Impact
 0. Yara Miran - Bohus
 0. Ru Ljung-Haanäs - Göteborg Kampsport
-0. Stella Nygren - Ljungby
 0. Thilda Karlsson - Kärra
-0. Milla Sandblom - Mölnlycke
 0. Emilia Deling - Torslanda
-0. Fanna Fesshay - Bohus
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
 0. Sofia Andersson - Torslanda
