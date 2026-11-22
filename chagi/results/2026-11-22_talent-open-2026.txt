@@ -86,7 +86,10 @@ Mönster Damer/Herrar Yngre Juniorer GUL
 3. Jack Geary - Ljungby
 
 Mönster Herrar Yngre Juniorer GRÖN/BLÅ
-0. Leo Alamerisson - Stockholm Impact
+1. Björn Levisson - Ljungby
+2. Bill Bäckström - Frölunda
+3. Leo Alamerisson - Stockholm Impact
+3. William Nilsson - Frölunda
 0. Bakir Nukovic - Bohus
 0. David Todoran - Trollhättan
 0. Linus Mårdberg - Mölnlycke
@@ -99,9 +102,6 @@ Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 0. Axel Järbrink - Torslanda
 0. Melvin Pihlgren - Kärra
 0. Alexander Stenbeck - Kärra
-0. William Nilsson - Frölunda
-0. Bill Bäckström - Frölunda
-0. Björn Levisson - Ljungby
 
 Mönster Damer Yngre Juniorer GRÖN/BLÅ
 0. Evelin Lam - Frölunda
@@ -220,7 +220,10 @@ Mönster Pojkar Kadetter VIT
 0. Ville Ottosson - Göteborg Kampsport
 
 Mönster Pojkar Kadetter GUL
-0. Leon Sarmark Mattsson - Kungsbacka
+1. Sebastian Stark - Mölnlycke
+2. Lucas Wernersson - Torslanda
+3. Leon Sarmark Mattsson - Kungsbacka
+3. Vincent Lindfors - Bohus
 0. Oscar Hultgren - Lindome
 0. Tim Carlsson - Lindome
 0. Tor Uddh - Lindome
@@ -229,12 +232,9 @@ Mönster Pojkar Kadetter GUL
 0. Maksim Svensson - Göteborg Kampsport
 0. Glenn Larsson - Frölunda
 0. Edvin Andersson - Frölunda
-0. Lucas Wernersson - Torslanda
 0. Noa Petrén Olauson - Torslanda
-0. Vincent Lindfors - Bohus
 0. Ainan Ikeljić - Kungälv
 0. Mimar Shammas - Bohuslän
-0. Sebastian Stark - Mölnlycke
 0. Lion Holmeby - Trollhättan
 
 Sparring Pojkar Kadetter VIT -160cm/+160cm
@@ -504,11 +504,11 @@ Mönster Flickor Kadetter GRÖN
 0. Emma Levisson - Ljungby
 
 Mönster Flickor Kadetter BLÅ/RÖD
+1. Selma Kilander - Stockholm Impact
+2. Fanna Fesshay - Bohus
+3. Yara Miran - Bohus
+3. Sanna Rasekh - Stockholm Impact
 0. Shaly- Alba Nasiri- Akech - Stockholm Impact
-0. Sanna Rasekh - Stockholm Impact
-0. Selma Kilander - Stockholm Impact
-0. Fanna Fesshay - Bohus
-0. Yara Miran - Bohus
 0. Wilma Pettersson - Bohus
 0. Milla Sandblom - Mölnlycke
 
