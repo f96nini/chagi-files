@@ -260,11 +260,11 @@ Sparring Pojkar Kadetter GUL -160cm
 0. Liam Fejzic - Hisingen
 
 Sparring Pojkar Kadetter GUL +160cm
+1. Leon Sarmark Mattsson - Kungsbacka
+2. Sebastian Stark - Mölnlycke
+3. Philip Bromberg - Hisingen
+3. Oscar Hultgren - Lindome
 0. Tor Uddh - Lindome
-0. Oscar Hultgren - Lindome
-0. Philip Bromberg - Hisingen
-0. Sebastian Stark - Mölnlycke
-0. Leon Sarmark Mattsson - Kungsbacka
 
 Sparring Flickor Kadetter GUL +160cm
 0. Estrid Landegren - Frölunda
@@ -784,14 +784,14 @@ Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
 0. Folke Beecken - Göteborg Kampsport
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Mira Düfke - Lindome
+2. Charlize Guetat - Göteborg Kampsport
+3. Litea Vanilja Sylvenius - Göteborg Kampsport
+3. Sanna Rasekh - Stockholm Impact
 0. Astrid Falk - Göteborg Kampsport
-0. Litea Vanilja Sylvenius - Göteborg Kampsport
 0. Julie Kjaerbeck Emilsson - Torslanda
-0. Mira Düfke - Lindome
 0. Alma Larsson - Ljungby
 0. Nelli Kristiansen - Göteborg Kampsport
-0. Sanna Rasekh - Stockholm Impact
-0. Charlize Guetat - Göteborg Kampsport
 
 Kross Pojkar Kadetter VIT/GUL -150cm
 0. Mimar Shammas - Bohuslän
