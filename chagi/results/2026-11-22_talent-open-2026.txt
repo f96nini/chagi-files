@@ -74,11 +74,11 @@ Sparring Pojkar Miniorer VIT -150cm
 0. Filip Alvarsson - Göteborg Kampsport
 
 Sparring Pojkar Miniorer GRÖN -150cm
+1. André Anefors - Frölunda
+2. Amadeus Henriksson - Trollhättan
+3. Valdemar Abrahamson - Bohus
+3. Alvar Erre Mattsson - Lindome
 0. Liam Alamerison - Stockholm Impact
-0. Amadeus Henriksson - Trollhättan
-0. Valdemar Abrahamson - Bohus
-0. André Anefors - Frölunda
-0. Alvar Erre Mattsson - Lindome
 
 Mönster Damer/Herrar Yngre Juniorer GUL
 0. Jack Geary - Ljungby
@@ -636,16 +636,16 @@ Kross Pojkar Miniorer VIT/GUL -140cm
 0. Kian Seven - Kungsbacka
 
 Kross Pojkar Miniorer VIT/GUL -150cm
+1. Adrian Emady Wittebo - Frölunda
+2. Benjamin Ivarsson - Trollhättan
+3. Alexandros Giannakos - Kärra
+3. Filip Österberg - Frölunda
 0. Vincent Zorjan - Göteborg Kampsport
 0. Theo Hylén - Lindome
-0. Adrian Emady Wittebo - Frölunda
 0. Filip Alvarsson - Göteborg Kampsport
-0. Alexandros Giannakos - Kärra
 0. Virat Saste - Frölunda
-0. Filip Österberg - Frölunda
 0. Leo Blidberg - Frölunda
 0. Yatvik Chowdary Vattigunta - Frölunda
-0. Benjamin Ivarsson - Trollhättan
 0. Oliver Johansson - Lindome
 0. Sixten Arnesson - Frölunda
 0. Ali Attara - Frölunda
