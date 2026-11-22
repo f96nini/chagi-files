@@ -213,10 +213,10 @@ Sparring Pojkar Miniorer GRÖN +150cm
 2. Adrian Lindblom - Mölnlycke
 
 Mönster Pojkar Kadetter VIT
-0. Elliot Tafjord - Kungsbacka
-0. Oscar Ahlstrand - Kungsbacka
-0. Karl Anefors - Frölunda
-0. Hugo Planhage - Göteborg Kampsport
+1. Elliot Tafjord - Kungsbacka
+2. Oscar Ahlstrand - Kungsbacka
+3. Karl Anefors - Frölunda
+3. Hugo Planhage - Göteborg Kampsport
 0. Ville Ottosson - Göteborg Kampsport
 
 Mönster Pojkar Kadetter GUL
@@ -348,8 +348,8 @@ Sparring Flickor Miniorer GRÖN -145cm/+145cm
 3. Louise Kilander - Stockholm Impact
 
 Mönster Flickor Kadetter VIT
-0. Amila Erkocevic - Bohuslän
-0. Wehazit Goytom - Bohus
+1. Wehazit Goytom - Bohus
+2. Amila Erkocevic - Bohuslän
 
 Mönster Pojkar Kadetter GRÖN
 0. George Eliasson - Hisingen
@@ -680,16 +680,16 @@ Kross Pojkar Yngre Miniorer VIT/GUL +140cm
 2. Matej Pavicic - Kärra
 
 Kross Flickor Miniorer GRÖN/BLÅ/RÖD -145cm/+145cm
-0. Klara Ericsson - Hisingen
-0. Louise Kilander - Stockholm Impact
-0. Ingrid Axelsson Anefors - Frölunda
+1. Klara Ericsson - Hisingen
+2. Ingrid Axelsson Anefors - Frölunda
+3. Louise Kilander - Stockholm Impact
 
 Kross Pojkar Yngre Miniorer VIT/GUL -130cm
-0. César Löfström - Göteborg Kampsport
-0. Sigge Tagesson - Bohus
+1. Noah Alfredsson - Trollhättan
+2. César Löfström - Göteborg Kampsport
+3. Sigge Tagesson - Bohus
+3. Emin Hadzimuratovic - Mariestad
 0. Enar Hesselgren - Stockholm Impact
-0. Noah Alfredsson - Trollhättan
-0. Emin Hadzimuratovic - Mariestad
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
 0. Axel Kilenstam - Göteborg Kampsport
@@ -818,7 +818,7 @@ Kross Herrar Yngre Juniorer
 0. Linus Mårdberg - Mölnlycke
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -65kg
-0. Bakir Nukovic - Bohus
+1. Bakir Nukovic - Bohus
 
 Sparring Flickor Kadetter BLÅ/RÖD -150cm
 0. Sanna Rasekh - Stockholm Impact
