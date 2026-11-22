@@ -59,11 +59,11 @@ Sparring Pojkar Yngre Miniorer VIT +140cm
 2. Matej Pavicic - Kärra
 
 Sparring Pojkar Miniorer VIT -140cm
+1. Kian Seven - Kungsbacka
+2. Benjamin Koreyat - Frölunda
+3. Dhuruvamithiran Rathinavel - Frölunda
+3. Johan Nilsson - Torslanda
 0. Liam Wilson - Göteborg Kampsport
-0. Johan Nilsson - Torslanda
-0. Benjamin Koreyat - Frölunda
-0. Dhuruvamithiran Rathinavel - Frölunda
-0. Kian Seven - Kungsbacka
 
 Sparring Pojkar Miniorer VIT -150cm
 0. Adam Azzam - Bohuslän
@@ -465,17 +465,17 @@ Sparring Flickor Miniorer GUL +145cm
 0. Elora Wallermark-Dickens - Mölnlycke
 
 Sparring Pojkar Miniorer GUL -140cm
-0. Ludvig Årman - Kungälv
+1. Kaj Kilenstam - Göteborg Kampsport
+2. Ludvig Årman - Kungälv
+3. Jonathan Racho - Kärra
+3. Sixten Palm - Trollhättan
 0. Lucas Andreasson - Bohuslän
-0. Sixten Palm - Trollhättan
 0. Erik Von Schwerin - Göteborg Kampsport
 0. Rex Ljunggren - Frölunda
-0. Kaj Kilenstam - Göteborg Kampsport
 0. Elia Bartesaghi - Frölunda
 0. Theo Niklasson - Frölunda
 0. Tor Von Schwerin - Göteborg Kampsport
 0. Napoleon Danielsen Winqvist - Frölunda
-0. Jonathan Racho - Kärra
 0. Oskar Filipovic - Kärra
 
 Sparring Flickor Miniorer GUL -145cm
@@ -594,12 +594,12 @@ Kross Pojkar Yngre Miniorer VIT/GUL -140cm
 0. Sigge Thunborg - Mariestad
 
 Kross Flickor Yngre Miniorer VIT/GUL +135cm
-0. Aurora Karlsson - Frölunda
-0. Selin Kadiroglu Jormin - Frölunda
+1. Aurora Karlsson - Frölunda
+2. Selin Kadiroglu Jormin - Frölunda
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD +150cm
-0. Alfons Huynh - Frölunda
-0. Adrian Lindblom - Mölnlycke
+1. Alfons Huynh - Frölunda
+2. Adrian Lindblom - Mölnlycke
 
 Kross Flickor Miniorer VIT/GUL +145cm
 0. Livia Hartner Dernebo - Mölnlycke
