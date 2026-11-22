@@ -81,9 +81,9 @@ Sparring Pojkar Miniorer GRÖN -150cm
 0. Liam Alamerison - Stockholm Impact
 
 Mönster Damer/Herrar Yngre Juniorer GUL
-0. Jack Geary - Ljungby
-0. Erika Good - Göteborg Kampsport
-0. Tiger Olsson - Frölunda
+1. Tiger Olsson - Frölunda
+2. Erika Good - Göteborg Kampsport
+3. Jack Geary - Ljungby
 
 Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 0. Leo Alamerisson - Stockholm Impact
@@ -352,17 +352,17 @@ Mönster Flickor Kadetter VIT
 2. Amila Erkocevic - Bohuslän
 
 Mönster Pojkar Kadetter GRÖN
+1. Aston Haglund - Frölunda
+2. Isidor Dahlberg - Frölunda
+3. Vincent Seiter - Frölunda
+3. Lucas Mateus Wipenmyr - Kärra
 0. George Eliasson - Hisingen
 0. Metmku Abraham - Hisingen
 0. Edin Osmanspahic - Kärra
 0. Oliver Wiberg - Kärra
 0. Nathaniel Racho - Kärra
-0. Lucas Mateus Wipenmyr - Kärra
 0. Axel Kilenstam - Göteborg Kampsport
-0. Aston Haglund - Frölunda
-0. Isidor Dahlberg - Frölunda
 0. Sigge Wallmark - Göteborg Kampsport
-0. Vincent Seiter - Frölunda
 0. Hugo Törnbrink - Göteborg Kampsport
 0. Folke Beecken - Göteborg Kampsport
 
@@ -487,18 +487,18 @@ Sparring Flickor Miniorer GUL -145cm
 0. Selma Sporre - Kungälv
 
 Mönster Flickor Kadetter GRÖN
+1. Litea Vanilja Sylvenius - Göteborg Kampsport
+2. Nellie Tran - Bohus
+3. Elna Söderberg - Ljungby
+3. Alma Larsson - Ljungby
 0. Mira Düfke - Lindome
-0. Litea Vanilja Sylvenius - Göteborg Kampsport
 0. Ru Ljung-Haanäs - Göteborg Kampsport
 0. Lovisa McClure - Kungsbacka
 0. Astrid Falk - Göteborg Kampsport
 0. Julie Kjaerbeck Emilsson - Torslanda
 0. Sofia Andersson - Torslanda
 0. Nelli Kristiansen - Göteborg Kampsport
-0. Nellie Tran - Bohus
 0. Alexandra Andersson - Bohus
-0. Elna Söderberg - Ljungby
-0. Alma Larsson - Ljungby
 0. Stella Nygren - Ljungby
 0. Nowa Fihn - Ljungby
 0. Emma Levisson - Ljungby
@@ -523,11 +523,10 @@ Sparring Flickor Kadetter GRÖN -150cm
 0. Alma Larsson - Ljungby
 
 Sparring Flickor Kadetter GRÖN -160cm
-0. Emilia Deling - Torslanda
-0. Thilda Karlsson - Kärra
-0. Ru Ljung-Haanäs - Göteborg Kampsport
 0. Elna Söderberg - Ljungby
 0. Stella Nygren - Ljungby
+0. Emilia Deling - Torslanda
+0. Ru Ljung-Haanäs - Göteborg Kampsport
 
 Sparring Flickor Kadetter GRÖN +160cm
 0. Aaliya Qamhawi - Stockholm Impact
@@ -821,10 +820,10 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -65kg
 1. Bakir Nukovic - Bohus
 
 Sparring Flickor Kadetter BLÅ/RÖD -150cm
-0. Sanna Rasekh - Stockholm Impact
+1. Sanna Rasekh - Stockholm Impact
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ +65kg
-0. Leo Alamerisson - Stockholm Impact
+1. Leo Alamerisson - Stockholm Impact
 
 Sparring Damer Yngre Juniorer GRÖN/BLÅ -61kg
-0. Ava Boreshnavard - Lindome
+1. Ava Boreshnavard - Lindome
