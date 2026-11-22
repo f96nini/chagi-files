@@ -137,13 +137,13 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
 3. Vidar Uddh - Lindome
 
 Sparring Damer Yngre Juniorer GRÖN/BLÅ -49kg
-0. Sofie Eliasson - Frölunda
-0. Natalie Dzobelova - Frölunda
-0. Donia Al-Debis - Bohus
+1. Sofie Eliasson - Frölunda
+2. Donia Al-Debis - Bohus
+3. Natalie Dzobelova - Frölunda
 
 Sparring Damer Yngre Juniorer GRÖN/BLÅ -53kg
-0. Nima Ahlén - Kungälv
-0. Elsa Forsgard - Lindome
+1. Nima Ahlén - Kungälv
+2. Elsa Forsgard - Lindome
 
 Mönster Pojkar Miniorer GUL
 1. Edvin Andersson - Torslanda
@@ -412,12 +412,12 @@ Sparring Pojkar Kadetter GRÖN +160cm
 3. Samuel Bartesaghi - Frölunda
 
 Sparring Flickor Kadetter GUL -160cm
-0. Nina De Flon - Mölnlycke
+1. Nina De Flon - Mölnlycke
+2. Anna-My Ander - Lindome
+3. Lykke-Lee Westgren - Torslanda
+3. Jannah Taha - Bohus
 0. Amilia Andreasson - Bohuslän
-0. Jannah Taha - Bohus
 0. Jennie Li - Torslanda
-0. Lykke-Lee Westgren - Torslanda
-0. Anna-My Ander - Lindome
 
 Mönster Flickor Yngre Miniorer GUL
 1. Edith Cervin - Lindome
@@ -544,8 +544,8 @@ Sparring Flickor Kadetter BLÅ/RÖD -160cm
 3. Milla Sandblom - Mölnlycke
 
 Sparring Flickor Kadetter BLÅ/RÖD +160cm
-0. Selma Kilander - Stockholm Impact
-0. Wilma Pettersson - Bohus
+1. Selma Kilander - Stockholm Impact
+2. Wilma Pettersson - Bohus
 
 Kross Pojkar Miniorer GRÖN/BLÅ/RÖD -150cm
 1. Amadeus Henriksson - Trollhättan
@@ -798,18 +798,18 @@ Kross Pojkar Kadetter VIT/GUL -150cm
 2. Mimar Shammas - Bohuslän
 
 Kross Herrar Yngre Juniorer
-0. William Nilsson - Frölunda
+1. Cornelis Olofsson - Lindome
+2. William Nilsson - Frölunda
+3. Vidar Uddh - Lindome
+3. Jack Geary - Ljungby
 0. Melvin Pihlgren - Kärra
 0. Samuel Andersson - Hisingen
 0. Ture Paulsson - Torslanda
 0. David Todoran - Trollhättan
-0. Vidar Uddh - Lindome
 0. Tiger Olsson - Frölunda
 0. Leo Alamerisson - Stockholm Impact
 0. Axel Järbrink - Torslanda
 0. Bakir Nukovic - Bohus
-0. Jack Geary - Ljungby
-0. Cornelis Olofsson - Lindome
 0. Alexander Stenbeck - Kärra
 0. Trevor Augustsson - Mölnlycke
 0. Elliot Hellander - Lindome
