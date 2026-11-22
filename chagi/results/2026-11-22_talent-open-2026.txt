@@ -41,9 +41,9 @@ Mönster Pojkar Miniorer VIT
 0. Yatvik Chowdary Vattigunta - Frölunda
 
 Sparring Pojkar Yngre Miniorer VIT -130cm
-0. Noah Alfredsson - Trollhättan
-0. Sigge Tagesson - Bohus
-0. César Löfström - Göteborg Kampsport
+1. César Löfström - Göteborg Kampsport
+2. Noah Alfredsson - Trollhättan
+3. Sigge Tagesson - Bohus
 
 Sparring Pojkar Yngre Miniorer VIT -140cm
 0. Ian Liu - Bohus
@@ -461,10 +461,10 @@ Mönster Pojkar Miniorer GUL
 0. Sixten Palm - Trollhättan
 
 Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm
-0. Benyamin Hamdard - Bohus
-0. Viktor Kaltén - Lindome
-0. Sigge Thunborg - Mariestad
-0. Enar Hesselgren - Stockholm Impact
+1. Benyamin Hamdard - Bohus
+2. Viktor Kaltén - Lindome
+3. Enar Hesselgren - Stockholm Impact
+3. Sigge Thunborg - Mariestad
 
 Sparring Pojkar Miniorer GUL -150cm
 0. Isak Tarlamisi - Bohus
@@ -715,17 +715,17 @@ Sparring Flickor Yngre Miniorer VIT -125cm
 2. Elina Attara - Frölunda
 
 Sparring Flickor Yngre Miniorer VIT -135cm
-0. Jenna Al-Hamedi - Bohus
-0. Elsa Thorell - Bohus
-0. Leia Berg - Frölunda
+1. Leia Berg - Frölunda
+2. Elsa Thorell - Bohus
+3. Jenna Al-Hamedi - Bohus
 
 Sparring Flickor Yngre Miniorer VIT +135cm
-0. Aurora Karlsson - Frölunda
-0. Selin Kadiroglu Jormin - Frölunda
+1. Selin Kadiroglu Jormin - Frölunda
+2. Aurora Karlsson - Frölunda
 
 Sparring Flickor Yngre Miniorer GUL -135cm
-0. Edith Cervin - Lindome
-0. Adelia Edevåg - Kungsbacka
+1. Adelia Edevåg - Kungsbacka
+2. Edith Cervin - Lindome
 
 Sparring Flickor Miniorer VIT -135cm
 0. Florence McClure - Kungsbacka
