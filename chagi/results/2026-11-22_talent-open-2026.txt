@@ -29,16 +29,16 @@ Mönster Pojkar Yngre Miniorer GUL
 3. Emin Hadzimuratovic - Mariestad
 
 Mönster Pojkar Miniorer VIT
+1. Johan Nilsson - Torslanda
+2. Filip Alvarsson - Göteborg Kampsport
+3. Benjamin Ivarsson - Trollhättan
+3. Kian Seven - Kungsbacka
 0. Adam Azzam - Bohuslän
 0. Fabian Palm - Trollhättan
-0. Benjamin Ivarsson - Trollhättan
-0. Kian Seven - Kungsbacka
-0. Johan Nilsson - Torslanda
 0. Dhuruvamithiran Rathinavel - Frölunda
 0. Liam Wilson - Göteborg Kampsport
 0. Benjamin Koreyat - Frölunda
 0. Yatvik Chowdary Vattigunta - Frölunda
-0. Filip Alvarsson - Göteborg Kampsport
 
 Sparring Pojkar Yngre Miniorer VIT -130cm
 0. Noah Alfredsson - Trollhättan
@@ -574,13 +574,13 @@ Mönster Flickor Miniorer GUL
 0. Vilda Jönsson - Ljungby
 
 Mönster Pojkar Miniorer GRÖN
+1. Amadeus Henriksson - Trollhättan
+2. Adrian Lindblom - Mölnlycke
+3. Alfons Huynh - Frölunda
+3. Alvar Erre Mattsson - Lindome
 0. Liam Alamerison - Stockholm Impact
-0. Amadeus Henriksson - Trollhättan
 0. Valdemar Abrahamson - Bohus
-0. Alvar Erre Mattsson - Lindome
-0. Alfons Huynh - Frölunda
 0. André Anefors - Frölunda
-0. Adrian Lindblom - Mölnlycke
 
 Sparring Flickor Miniorer GUL +145cm
 0. Stina Geber - Mariestad
@@ -711,8 +711,8 @@ Mönster Flickor Miniorer GRÖN
 3. Klara Ericsson - Hisingen
 
 Sparring Flickor Yngre Miniorer VIT -125cm
-0. Minna Lundström - Kungsbacka
-0. Elina Attara - Frölunda
+1. Minna Lundström - Kungsbacka
+2. Elina Attara - Frölunda
 
 Sparring Flickor Yngre Miniorer VIT -135cm
 0. Jenna Al-Hamedi - Bohus
