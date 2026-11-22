@@ -407,9 +407,9 @@ Sparring Pojkar Kadetter GRÖN -160cm
 3. Jakob Ullerstam - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GRÖN +160cm
-0. Edin Osmanspahic - Kärra
-0. Samuel Bartesaghi - Frölunda
-0. Isidor Dahlberg - Frölunda
+1. Isidor Dahlberg - Frölunda
+2. Edin Osmanspahic - Kärra
+3. Samuel Bartesaghi - Frölunda
 
 Sparring Flickor Kadetter GUL -160cm
 0. Nina De Flon - Mölnlycke
@@ -529,12 +529,12 @@ Sparring Flickor Kadetter GRÖN -160cm
 3. Emilia Deling - Torslanda
 
 Sparring Flickor Kadetter GRÖN +160cm
+1. Alexandra Andersson - Bohus
+2. Lovisa McClure - Kungsbacka
+3. Elsie Carolan - Torslanda
+3. Nellie Tran - Bohus
 0. Aaliya Qamhawi - Stockholm Impact
-0. Lovisa McClure - Kungsbacka
 0. Sofia Andersson - Torslanda
-0. Elsie Carolan - Torslanda
-0. Alexandra Andersson - Bohus
-0. Nellie Tran - Bohus
 0. Nowa Fihn - Ljungby
 
 Sparring Flickor Kadetter BLÅ/RÖD -160cm
@@ -776,11 +776,11 @@ Kross Damer Yngre Juniorer
 0. Sofie Eliasson - Frölunda
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -150cm
+1. Nathaniel Racho - Kärra
+2. Lucas Mateus Wipenmyr - Kärra
+3. Sigge Wallmark - Göteborg Kampsport
+3. Aston Haglund - Frölunda
 0. Hugo Törnbrink - Göteborg Kampsport
-0. Aston Haglund - Frölunda
-0. Lucas Mateus Wipenmyr - Kärra
-0. Nathaniel Racho - Kärra
-0. Sigge Wallmark - Göteborg Kampsport
 0. Folke Beecken - Göteborg Kampsport
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
