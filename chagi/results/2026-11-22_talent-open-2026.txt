@@ -204,13 +204,13 @@ Sparring Pojkar Miniorer GUL -150cm
 0. Magnus Sandström - Mariestad
 
 Sparring Pojkar Miniorer GUL +150cm
-0. Ibrahim Taha - Bohus
-0. Fredrik Karlander - Torslanda
-0. Elias Hagström - Lindome
+1. Elias Hagström - Lindome
+2. Ibrahim Taha - Bohus
+3. Fredrik Karlander - Torslanda
 
 Sparring Pojkar Miniorer GRÖN +150cm
-0. Alfons Huynh - Frölunda
-0. Adrian Lindblom - Mölnlycke
+1. Alfons Huynh - Frölunda
+2. Adrian Lindblom - Mölnlycke
 
 Mönster Pojkar Kadetter VIT
 0. Elliot Tafjord - Kungsbacka
@@ -336,16 +336,16 @@ Sparring Flickor Miniorer VIT +145cm
 3. Kiwi Lundin - Stockholm Impact
 
 Sparring Flickor Miniorer GUL -135cm
-0. Vilda Jönsson - Ljungby
-0. Rania Al-Debis - Bohus
-0. Elisabeth Fjellsson - Kungsbacka
-0. Michelle Kristensen - Lindome
+1. Michelle Kristensen - Lindome
+2. Elisabeth Fjellsson - Kungsbacka
+3. Vilda Jönsson - Ljungby
+3. Rania Al-Debis - Bohus
 0. Selma Larsson Riza - Göteborg Kampsport
 
 Sparring Flickor Miniorer GRÖN -145cm/+145cm
-0. Louise Kilander - Stockholm Impact
-0. Ingrid Axelsson Anefors - Frölunda
-0. Klara Ericsson - Hisingen
+1. Klara Ericsson - Hisingen
+2. Ingrid Axelsson Anefors - Frölunda
+3. Louise Kilander - Stockholm Impact
 
 Mönster Flickor Kadetter VIT
 0. Amila Erkocevic - Bohuslän
@@ -619,18 +619,18 @@ Kross Flickor Miniorer VIT/GUL +145cm
 0. Vilma Söderberg - Göteborg Kampsport
 
 Kross Pojkar Miniorer VIT/GUL -140cm
+1. Tor Von Schwerin - Göteborg Kampsport
+2. Sixten Palm - Trollhättan
+3. Jonathan Racho - Kärra
+3. Nore Torén - Frölunda
 0. Napoleon Danielsen Winqvist - Frölunda
 0. Dhuruvamithiran Rathinavel - Frölunda
 0. Theo Niklasson - Frölunda
 0. Kaj Kilenstam - Göteborg Kampsport
 0. Rex Ljunggren - Frölunda
-0. Jonathan Racho - Kärra
 0. Vincent Jönsson - Frölunda
-0. Tor Von Schwerin - Göteborg Kampsport
 0. Lucas Andreasson - Bohuslän
-0. Sixten Palm - Trollhättan
 0. Benjamin Koreyat - Frölunda
-0. Nore Torén - Frölunda
 0. Liam Wilson - Göteborg Kampsport
 0. Johan Nilsson - Torslanda
 0. Kian Seven - Kungsbacka
