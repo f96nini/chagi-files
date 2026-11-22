@@ -266,6 +266,11 @@ Sparring Pojkar Kadetter GUL +160cm
 0. Sebastian Stark - Mölnlycke
 0. Leon Sarmark Mattsson - Kungsbacka
 
+Sparring Flickor Kadetter GUL +160cm
+0. Estrid Landegren - Frölunda
+0. Elise Börjesson - Frölunda
+0. Emelie Nordwall - Trollhättan
+
 Mönster Flickor Yngre Miniorer VIT
 1. Olivia Luu - Bohus
 2. Elsa Thorell - Bohus
@@ -413,11 +418,6 @@ Sparring Flickor Kadetter GUL -160cm
 0. Jennie Li - Torslanda
 0. Lykke-Lee Westgren - Torslanda
 0. Anna-My Ander - Lindome
-
-Sparring Flickor Kadetter GUL +160cm
-0. Estrid Landegren - Frölunda
-0. Elise Börjesson - Frölunda
-0. Emelie Nordwall - Trollhättan
 
 Mönster Flickor Yngre Miniorer GUL
 1. Edith Cervin - Lindome
@@ -708,26 +708,26 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 0. Emilia Deling - Torslanda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD +160cm
-0. Sofia Andersson - Torslanda
+1. Alexandra Andersson - Bohus
+2. Selma Kilander - Stockholm Impact
+3. Nellie Tran - Bohus
+3. Sofia Andersson - Torslanda
 0. Nowa Fihn - Ljungby
-0. Nellie Tran - Bohus
 0. Lovisa McClure - Kungsbacka
 0. Wilma Pettersson - Bohus
-0. Alexandra Andersson - Bohus
-0. Selma Kilander - Stockholm Impact
 0. Elsie Carolan - Torslanda
 0. Aaliya Qamhawi - Stockholm Impact
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD +160cm
-0. Samuel Bartesaghi - Frölunda
-0. Edin Osmanspahic - Kärra
-0. Isidor Dahlberg - Frölunda
+1. Edin Osmanspahic - Kärra
+2. Isidor Dahlberg - Frölunda
+3. Samuel Bartesaghi - Frölunda
 
 Kross Pojkar Kadetter VIT/GUL +160cm
-0. Lucas Tibell - Göteborg Kampsport
-0. Leon Sarmark Mattsson - Kungsbacka
-0. Tor Uddh - Lindome
-0. Sebastian Stark - Mölnlycke
+1. Leon Sarmark Mattsson - Kungsbacka
+2. Sebastian Stark - Mölnlycke
+3. Tor Uddh - Lindome
+3. Lucas Tibell - Göteborg Kampsport
 0. Oscar Hultgren - Lindome
 
 Kross Pojkar Kadetter VIT/GUL -160cm
