@@ -131,10 +131,10 @@ Sparring Herrar Yngre Juniorer GRÖN/BLÅ -50kg
 0. Linus Mårdberg - Mölnlycke
 
 Sparring Herrar Yngre Juniorer GRÖN/BLÅ -55kg
-0. Trevor Augustsson - Mölnlycke
-0. David Todoran - Trollhättan
-0. Axel Järbrink - Torslanda
-0. Vidar Uddh - Lindome
+1. Axel Järbrink - Torslanda
+2. Trevor Augustsson - Mölnlycke
+3. David Todoran - Trollhättan
+3. Vidar Uddh - Lindome
 
 Sparring Damer Yngre Juniorer GRÖN/BLÅ -49kg
 0. Sofie Eliasson - Frölunda
@@ -267,9 +267,9 @@ Sparring Pojkar Kadetter GUL +160cm
 0. Tor Uddh - Lindome
 
 Sparring Flickor Kadetter GUL +160cm
-0. Estrid Landegren - Frölunda
-0. Elise Börjesson - Frölunda
-0. Emelie Nordwall - Trollhättan
+1. Emelie Nordwall - Trollhättan
+2. Estrid Landegren - Frölunda
+3. Elise Börjesson - Frölunda
 
 Mönster Flickor Yngre Miniorer VIT
 1. Olivia Luu - Bohus
@@ -538,10 +538,10 @@ Sparring Flickor Kadetter GRÖN +160cm
 0. Nowa Fihn - Ljungby
 
 Sparring Flickor Kadetter BLÅ/RÖD -160cm
-0. Shaly- Alba Nasiri- Akech - Stockholm Impact
-0. Fanna Fesshay - Bohus
-0. Yara Miran - Bohus
-0. Milla Sandblom - Mölnlycke
+1. Yara Miran - Bohus
+2. Fanna Fesshay - Bohus
+3. Shaly- Alba Nasiri- Akech - Stockholm Impact
+3. Milla Sandblom - Mölnlycke
 
 Sparring Flickor Kadetter BLÅ/RÖD +160cm
 0. Selma Kilander - Stockholm Impact
@@ -794,8 +794,8 @@ Kross Flickor Kadetter GRÖN/BLÅ/RÖD -150cm
 0. Nelli Kristiansen - Göteborg Kampsport
 
 Kross Pojkar Kadetter VIT/GUL -150cm
-0. Mimar Shammas - Bohuslän
-0. Elias Nylund - Lindome
+1. Elias Nylund - Lindome
+2. Mimar Shammas - Bohuslän
 
 Kross Herrar Yngre Juniorer
 0. William Nilsson - Frölunda
