@@ -23,10 +23,10 @@ Mönster Pojkar Yngre Miniorer VIT
 0. Olle Geber - Mariestad
 
 Mönster Pojkar Yngre Miniorer GUL
-0. Sigge Thunborg - Mariestad
-0. Emin Hadzimuratovic - Mariestad
-0. Benyamin Hamdard - Bohus
-0. Viktor Kaltén - Lindome
+1. Viktor Kaltén - Lindome
+2. Benyamin Hamdard - Bohus
+3. Sigge Thunborg - Mariestad
+3. Emin Hadzimuratovic - Mariestad
 
 Mönster Pojkar Miniorer VIT
 0. Adam Azzam - Bohuslän
@@ -427,13 +427,15 @@ Kross Herrar Yngre Juniorer
 0. Linus Mårdberg - Mölnlycke
 
 Mönster Pojkar Miniorer GUL
+1. Edvin Andersson - Torslanda
+2. Ludvig Årman - Kungälv
+3. Oskar Filipovic - Kärra
+3. Fredrik Karlander - Torslanda
 0. Lucas Andreasson - Bohuslän
-0. Ludvig Årman - Kungälv
 0. Isak Tarlamisi - Bohus
 0. Ibrahim Taha - Bohus
 0. Jonathan Racho - Kärra
 0. Alexandros Giannakos - Kärra
-0. Oskar Filipovic - Kärra
 0. Nore Torén - Frölunda
 0. Leo Blidberg - Frölunda
 0. Theo Niklasson - Frölunda
@@ -454,8 +456,6 @@ Mönster Pojkar Miniorer GUL
 0. Elias Hagström - Lindome
 0. Theo Hylén - Lindome
 0. Oliver Johansson - Lindome
-0. Fredrik Karlander - Torslanda
-0. Edvin Andersson - Torslanda
 0. Isak Pålsson - Torslanda
 0. Charlaile Malan - Mölnlycke
 0. Sixten Palm - Trollhättan
@@ -552,14 +552,15 @@ Mönster Flickor Yngre Miniorer GUL
 2. Adelia Edevåg - Kungsbacka
 
 Mönster Flickor Miniorer GUL
-0. Emelina Alfredsson - Kungälv
+1. Heela Sherzad - Stockholm Impact
+2. Livia Hartner Dernebo - Mölnlycke
+3. Emelina Alfredsson - Kungälv
+3. Elora Wallermark-Dickens - Mölnlycke
 0. Selma Larsson Riza - Göteborg Kampsport
 0. Claudia Lemic - Trollhättan
 0. Alexie Jakobsen Sandberg - Trollhättan
 0. Freja Thorell - Bohus
 0. Rania Al-Debis - Bohus
-0. Livia Hartner Dernebo - Mölnlycke
-0. Elora Wallermark-Dickens - Mölnlycke
 0. Elisabeth Fjellsson - Kungsbacka
 0. Kayleigh Ahrnberg - Trollhättan
 0. Ester Sundberg - Göteborg Kampsport
@@ -569,7 +570,6 @@ Mönster Flickor Miniorer GUL
 0. Michelle Kristensen - Lindome
 0. Julia Högberg - Lindome
 0. Amea Qvist - Lindome
-0. Heela Sherzad - Stockholm Impact
 0. Stina Geber - Mariestad
 0. Vilda Jönsson - Ljungby
 
@@ -686,11 +686,13 @@ Mönster Flickor Yngre Miniorer VIT
 0. Minna Lundström - Kungsbacka
 
 Mönster Flickor Miniorer VIT
+1. Stephanie Illich - Frölunda
+2. Amelia Lundström - Kungsbacka
+3. Anastasia Samuelsson - Frölunda
+3. Dahlia Smith - Kungsbacka
 0. Kiwi Lundin - Stockholm Impact
 0. Zaina Al Mejarish - Bohuslän
 0. Florence McClure - Kungsbacka
-0. Dahlia Smith - Kungsbacka
-0. Amelia Lundström - Kungsbacka
 0. Ronja Ribberström - Göteborg Kampsport
 0. Pim Eriksson-Nyberg - Göteborg Kampsport
 0. Vilma Söderberg - Göteborg Kampsport
@@ -700,15 +702,13 @@ Mönster Flickor Miniorer VIT
 0. Dahlia Joyce Karbratt Sobhani - Göteborg Kampsport
 0. Felicia Tigora - Kärra
 0. Zoi Vasilopoulou - Kärra
-0. Anastasia Samuelsson - Frölunda
 0. Liv Börjesson - Frölunda
 0. Linnéa Strömberg Einarsson - Göteborg Kampsport
-0. Stephanie Illich - Frölunda
 
 Mönster Flickor Miniorer GRÖN
-0. Klara Ericsson - Hisingen
-0. Ingrid Axelsson Anefors - Frölunda
-0. Louise Kilander - Stockholm Impact
+1. Louise Kilander - Stockholm Impact
+2. Ingrid Axelsson Anefors - Frölunda
+3. Klara Ericsson - Hisingen
 
 Sparring Flickor Yngre Miniorer VIT -125cm
 0. Minna Lundström - Kungsbacka
