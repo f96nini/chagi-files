@@ -55,8 +55,8 @@ Sparring Pojkar Yngre Miniorer VIT -140cm
 0. Domenic Felix Pavicic - Göteborg Kampsport
 
 Sparring Pojkar Yngre Miniorer VIT +140cm
-0. Antonio Buntic - Frölunda
-0. Matej Pavicic - Kärra
+1. Antonio Buntic - Frölunda
+2. Matej Pavicic - Kärra
 
 Sparring Pojkar Miniorer VIT -140cm
 0. Liam Wilson - Göteborg Kampsport
@@ -330,10 +330,10 @@ Sparring Flickor Miniorer VIT -145cm
 0. Leia Faramarzi - Frölunda
 
 Sparring Flickor Miniorer VIT +145cm
-0. Mila Lazkani - Göteborg Kampsport
-0. Pim Eriksson-Nyberg - Göteborg Kampsport
-0. Ronja Ribberström - Göteborg Kampsport
-0. Kiwi Lundin - Stockholm Impact
+1. Pim Eriksson-Nyberg - Göteborg Kampsport
+2. Ronja Ribberström - Göteborg Kampsport
+3. Mila Lazkani - Göteborg Kampsport
+3. Kiwi Lundin - Stockholm Impact
 
 Sparring Flickor Miniorer GUL -135cm
 0. Vilda Jönsson - Ljungby
@@ -579,17 +579,17 @@ Kross Flickor Miniorer VIT/GUL -135cm
 0. Michelle Kristensen - Lindome
 
 Kross Pojkar Yngre Miniorer VIT/GUL -140cm
+1. Benyamin Hamdard - Bohus
+2. Ian Liu - Bohus
+3. Harry Kvick Jansson - Torslanda
+3. Gustaf Englund - Torslanda
 0. Melwin Bäck - Torslanda
 0. William Harder Sjöland - Kungsbacka
-0. Benyamin Hamdard - Bohus
-0. Ian Liu - Bohus
 0. Henrik Karlander - Torslanda
 0. Julian Hallingström - Göteborg Kampsport
 0. Domenic Felix Pavicic - Göteborg Kampsport
-0. Gustaf Englund - Torslanda
 0. Olle Geber - Mariestad
 0. Adrian Bartolomé Högberg - Kärra
-0. Harry Kvick Jansson - Torslanda
 0. Viktor Kaltén - Lindome
 0. Sigge Thunborg - Mariestad
 
