@@ -66,11 +66,11 @@ Sparring Pojkar Miniorer VIT -140cm
 0. Liam Wilson - Göteborg Kampsport
 
 Sparring Pojkar Miniorer VIT -150cm
-0. Adam Azzam - Bohuslän
-0. Benjamin Ivarsson - Trollhättan
-0. Fabian Palm - Trollhättan
+1. Benjamin Ivarsson - Trollhättan
+2. Fabian Palm - Trollhättan
+3. Filip Österberg - Frölunda
+3. Adam Azzam - Bohuslän
 0. Yatvik Chowdary Vattigunta - Frölunda
-0. Filip Österberg - Frölunda
 0. Filip Alvarsson - Göteborg Kampsport
 
 Sparring Pojkar Miniorer GRÖN -150cm
@@ -186,8 +186,11 @@ Sparring Pojkar Yngre Miniorer GUL -130cm/-140cm
 3. Sigge Thunborg - Mariestad
 
 Sparring Pojkar Miniorer GUL -150cm
+1. Edvin Andersson - Torslanda
+2. Adrian Emady Wittebo - Frölunda
+3. Kristian Dzobelov - Frölunda
+3. Brandon Parvaneh - Frölunda
 0. Isak Tarlamisi - Bohus
-0. Edvin Andersson - Torslanda
 0. Isak Pålsson - Torslanda
 0. Theo Hylén - Lindome
 0. Oliver Johansson - Lindome
@@ -196,9 +199,6 @@ Sparring Pojkar Miniorer GUL -150cm
 0. Ali Attara - Frölunda
 0. Leo Blidberg - Frölunda
 0. Virat Saste - Frölunda
-0. Adrian Emady Wittebo - Frölunda
-0. Kristian Dzobelov - Frölunda
-0. Brandon Parvaneh - Frölunda
 0. Thor Bang-Melchior - Frölunda
 0. Charlaile Malan - Mölnlycke
 0. Magnus Sandström - Mariestad
@@ -479,11 +479,11 @@ Sparring Pojkar Miniorer GUL -140cm
 0. Oskar Filipovic - Kärra
 
 Sparring Flickor Miniorer GUL -145cm
+1. Julie Arnsrud - Göteborg Kampsport
+2. Claudia Lemic - Trollhättan
+3. Julia Högberg - Lindome
+3. Alexie Jakobsen Sandberg - Trollhättan
 0. Kayleigh Ahrnberg - Trollhättan
-0. Claudia Lemic - Trollhättan
-0. Alexie Jakobsen Sandberg - Trollhättan
-0. Julia Högberg - Lindome
-0. Julie Arnsrud - Göteborg Kampsport
 0. Selma Sporre - Kungälv
 
 Mönster Flickor Kadetter GRÖN
@@ -602,11 +602,13 @@ Kross Pojkar Miniorer GRÖN/BLÅ/RÖD +150cm
 2. Adrian Lindblom - Mölnlycke
 
 Kross Flickor Miniorer VIT/GUL +145cm
+1. Mila Lazkani - Göteborg Kampsport
+2. Amea Qvist - Lindome
+3. Freja Thorell - Bohus
+3. Novali Danielsen Winqvist - Frölunda
 0. Livia Hartner Dernebo - Mölnlycke
 0. Emelina Alfredsson - Kungälv
-0. Mila Lazkani - Göteborg Kampsport
 0. Pim Eriksson-Nyberg - Göteborg Kampsport
-0. Novali Danielsen Winqvist - Frölunda
 0. Elora Wallermark-Dickens - Mölnlycke
 0. Ronja Ribberström - Göteborg Kampsport
 0. Nour Falk Bortheiry - Frölunda
@@ -614,9 +616,7 @@ Kross Flickor Miniorer VIT/GUL +145cm
 0. Linnéa Strömberg Einarsson - Göteborg Kampsport
 0. Stina Geber - Mariestad
 0. Kiwi Lundin - Stockholm Impact
-0. Freja Thorell - Bohus
 0. Vilma Söderberg - Göteborg Kampsport
-0. Amea Qvist - Lindome
 
 Kross Pojkar Miniorer VIT/GUL -140cm
 0. Napoleon Danielsen Winqvist - Frölunda
