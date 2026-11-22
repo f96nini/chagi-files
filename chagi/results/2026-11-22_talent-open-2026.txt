@@ -583,12 +583,12 @@ Mönster Pojkar Miniorer GRÖN
 0. André Anefors - Frölunda
 
 Sparring Flickor Miniorer GUL +145cm
-0. Stina Geber - Mariestad
-0. Heela Sherzad - Stockholm Impact
+1. Heela Sherzad - Stockholm Impact
+2. Novali Danielsen Winqvist - Frölunda
+3. Stina Geber - Mariestad
+3. Nour Falk Bortheiry - Frölunda
 0. Freja Thorell - Bohus
 0. Ester Sundberg - Göteborg Kampsport
-0. Novali Danielsen Winqvist - Frölunda
-0. Nour Falk Bortheiry - Frölunda
 0. Amea Qvist - Lindome
 0. Elora Wallermark-Dickens - Mölnlycke
 
@@ -728,9 +728,9 @@ Sparring Flickor Yngre Miniorer GUL -135cm
 2. Edith Cervin - Lindome
 
 Sparring Flickor Miniorer VIT -135cm
-0. Florence McClure - Kungsbacka
-0. Amelia Lundström - Kungsbacka
-0. Zoi Vasilopoulou - Kärra
+1. Florence McClure - Kungsbacka
+2. Amelia Lundström - Kungsbacka
+3. Zoi Vasilopoulou - Kärra
 
 Sparring Flickor Miniorer VIT -145cm
 0. Dahlia Smith - Kungsbacka
