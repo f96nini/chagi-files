@@ -1,6 +1,6 @@
 {
   "version": "2026-11-22",
-  "updated": "2026-11-22T08:16:24.3748518Z",
+  "updated": "2026-11-22T08:29:26.2150237Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -92,7 +92,7 @@
     },
     {
       "path": "matches/index.json",
-      "sha256": "2f98de87278e593a0ea01781b81acb8d511860614d47f1c11b1c0cd97df27803"
+      "sha256": "70efa1a53b7984baebdf5357cd0691bfcb33dce1024fb579ca650ecda2bd7645"
     },
     {
       "path": "results/2026-10-17_impact-cup-2026.txt",
@@ -116,7 +116,11 @@
     },
     {
       "path": "results/2026-11-22_talent-open-2026.txt",
-      "sha256": "1691cdec2c6e01367d5983756aaa990a7d442af0524d75cc6f5a22d8cd205802"
+      "sha256": "b6be68b73aa8d7ae9aa4bb0ee842a5407ccd42da0a9035e82b075ea1cc7d778b"
+    },
+    {
+      "path": "matches/2026-11-22_talent-open-2026.json",
+      "sha256": "eaf6bb5e9d5e30697205c4c3c6a0d9a21b7076c3879c70c59aeb2403eef74327"
     }
   ]
 }
