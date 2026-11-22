@@ -523,10 +523,10 @@ Sparring Flickor Kadetter GRÖN -150cm
 0. Julie Kjaerbeck Emilsson - Torslanda
 
 Sparring Flickor Kadetter GRÖN -160cm
-0. Elna Söderberg - Ljungby
-0. Stella Nygren - Ljungby
-0. Emilia Deling - Torslanda
-0. Ru Ljung-Haanäs - Göteborg Kampsport
+1. Stella Nygren - Ljungby
+2. Elna Söderberg - Ljungby
+3. Ru Ljung-Haanäs - Göteborg Kampsport
+3. Emilia Deling - Torslanda
 
 Sparring Flickor Kadetter GRÖN +160cm
 0. Aaliya Qamhawi - Stockholm Impact
@@ -751,18 +751,18 @@ Kross Flickor Kadetter VIT/GUL +160cm
 3. Estrid Landegren - Frölunda
 
 Kross Flickor Kadetter VIT/GUL -160cm
+1. Anna-My Ander - Lindome
+2. Wehazit Goytom - Bohus
+3. Novalie Pettersson Löfroos - Trollhättan
+3. Jannah Taha - Bohus
 0. Nina De Flon - Mölnlycke
-0. Anna-My Ander - Lindome
-0. Wehazit Goytom - Bohus
 0. Amilia Andreasson - Bohuslän
-0. Novalie Pettersson Löfroos - Trollhättan
 0. Amila Erkocevic - Bohuslän
-0. Jannah Taha - Bohus
 
 Kross Flickor Kadetter VIT/GUL -150cm
-0. Nova Ekstrand - Hisingen
-0. Alice Ekstrand - Hisingen
-0. Chloé Wong - Kärra
+1. Nova Ekstrand - Hisingen
+2. Alice Ekstrand - Hisingen
+3. Chloé Wong - Kärra
 
 Kross Damer Yngre Juniorer
 0. Nima Ahlén - Kungälv

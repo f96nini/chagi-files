@@ -1,6 +1,6 @@
 {
   "version": "2026-11-22",
-  "updated": "2026-11-22T13:45:34.9668910Z",
+  "updated": "2026-11-22T13:59:11.3101408Z",
   "files": [
     {
       "path": "results/2023-10-14_stenungsund_34.txt",
@@ -116,11 +116,11 @@
     },
     {
       "path": "results/2026-11-22_talent-open-2026.txt",
-      "sha256": "657a9e75f41d8286775c49a1dcc87309282d6aa8a1458c480615c19fd4282c1b"
+      "sha256": "deefb0e6262ff87e3d536b59353919c95bf2c3821206a0e2e33c03793fd05760"
     },
     {
       "path": "matches/2026-11-22_talent-open-2026.json",
-      "sha256": "9e1cc1f9697b40db242e6668ebc4af7996079ae605ed90776610025df512e86a"
+      "sha256": "a07cd791f44aa29673fc096caab292011cd5dc1d23361470385934f3e8b0674a"
     }
   ]
 }
