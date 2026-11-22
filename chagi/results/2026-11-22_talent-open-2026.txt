@@ -104,17 +104,17 @@ Mönster Herrar Yngre Juniorer GRÖN/BLÅ
 0. Alexander Stenbeck - Kärra
 
 Mönster Damer Yngre Juniorer GRÖN/BLÅ
-0. Evelin Lam - Frölunda
+1. Evelin Lam - Frölunda
+2. Sofie Eliasson - Frölunda
+3. Nima Ahlén - Kungälv
+3. Samyuktha Venkatesh - Kungälv
 0. Elsa Forsgard - Lindome
 0. Natalie Dzobelova - Frölunda
 0. Elin Bergvi - Lindome
 0. Ava Boreshnavard - Lindome
-0. Sofie Eliasson - Frölunda
 0. Salma Raid - Bohuslän
-0. Samyuktha Venkatesh - Kungälv
 0. Donia Al-Debis - Bohus
 0. Ella Magnusson - Bohuslän
-0. Nima Ahlén - Kungälv
 
 Sparring Herrar Yngre Juniorer GUL -60kg/-65kg
 0. Tiger Olsson - Frölunda
@@ -238,12 +238,12 @@ Mönster Pojkar Kadetter GUL
 0. Lion Holmeby - Trollhättan
 
 Sparring Pojkar Kadetter VIT -160cm/+160cm
-0. Karl Anefors - Frölunda
-0. Oscar Ahlstrand - Kungsbacka
+1. Oscar Ahlstrand - Kungsbacka
+2. Hugo Planhage - Göteborg Kampsport
+3. Karl Anefors - Frölunda
+3. Ville Ottosson - Göteborg Kampsport
 0. Elliot Tafjord - Kungsbacka
 0. Lucas Tibell - Göteborg Kampsport
-0. Hugo Planhage - Göteborg Kampsport
-0. Ville Ottosson - Göteborg Kampsport
 
 Sparring Pojkar Kadetter GUL -150cm
 0. Ainan Ikeljić - Kungälv
@@ -367,14 +367,14 @@ Mönster Pojkar Kadetter GRÖN
 0. Folke Beecken - Göteborg Kampsport
 
 Mönster Flickor Kadetter GUL
+1. Emelie Nordwall - Trollhättan
+2. Lykke-Lee Westgren - Torslanda
+3. Jannah Taha - Bohus
+3. Novalie Pettersson Löfroos - Trollhättan
 0. Nina De Flon - Mölnlycke
-0. Novalie Pettersson Löfroos - Trollhättan
-0. Emelie Nordwall - Trollhättan
 0. Amilia Andreasson - Bohuslän
-0. Jannah Taha - Bohus
 0. Nova Ekstrand - Hisingen
 0. Alice Ekstrand - Hisingen
-0. Lykke-Lee Westgren - Torslanda
 0. Jennie Li - Torslanda
 0. Anna-My Ander - Lindome
 0. Olivia Wiberg - Kärra
@@ -691,10 +691,10 @@ Kross Pojkar Yngre Miniorer VIT/GUL -130cm
 0. Enar Hesselgren - Stockholm Impact
 
 Kross Pojkar Kadetter GRÖN/BLÅ/RÖD -160cm
-0. Axel Kilenstam - Göteborg Kampsport
-0. Jakob Ullerstam - Göteborg Kampsport
-0. Oliver Wiberg - Kärra
-0. Vincent Seiter - Frölunda
+1. Oliver Wiberg - Kärra
+2. Axel Kilenstam - Göteborg Kampsport
+3. Jakob Ullerstam - Göteborg Kampsport
+3. Vincent Seiter - Frölunda
 
 Kross Flickor Kadetter GRÖN/BLÅ/RÖD -160cm
 0. Elna Söderberg - Ljungby
